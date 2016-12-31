@@ -29,3 +29,6 @@ purpose:
   - type: contact
     url: 'tel:480-360-1864'
     label: Click to Text or Call
+  - type: external
+    url: 'https://calendly.com/surewaytolive/15min/12-31-2016?back=1'
+    label: Schedule Your Interview
