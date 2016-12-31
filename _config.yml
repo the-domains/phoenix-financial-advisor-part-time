@@ -1,0 +1,31 @@
+typography_spectrum: 0.8643066685181111
+color:
+  brandStrength: 0.4334960866253823
+  lightness: 0.00728229247033596
+  saturation: 0.34958391916006804
+  rhythmicContrast: 0.9088092586025596
+  brandColors:
+    - '#FFFFFF'
+    - '#494949'
+    - '#000000'
+    - '#F37521'
+    - '#B3B3B3'
+github: true
+layout_spectrum: 0.14464401500299573
+author:
+  name: Barry Scheurweghs
+  email: surewaytolive@gmail.com
+  url: SurewayFinancial.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c301349b-1f65-4874-abd2-9f65106e821b.png
+name: Hiring Financial Consultants
+url: 'http://surewayfinancial.com'
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/28c92b2f-acf6-4a39-8210-d81a5e04fb5d.jpg
+title: Sureway Financial
+content: []
+description: We're Hiring Financial Consultants
+purpose:
+  - type: contact
+    url: 'tel:480-360-1864'
+    label: Click to Text or Call
