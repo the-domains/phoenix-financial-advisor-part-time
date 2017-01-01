@@ -1,17 +1,17 @@
-typography_spectrum: 0.8643066685181111
+layout_spectrum: 0.14920425847836652
+typography_spectrum: 0.2921896668880403
 color:
-  brandStrength: 0.4334960866253823
-  lightness: 0.00728229247033596
-  saturation: 0.34958391916006804
-  rhythmicContrast: 0.9088092586025596
+  brandStrength: 0.3265962691367189
+  lightness: 0.9338477892429559
+  saturation: 0.17135510252087868
+  rhythmicContrast: 0.5536037222108814
   brandColors:
     - '#FFFFFF'
-    - '#494949'
-    - '#000000'
-    - '#F37521'
-    - '#B3B3B3'
+    - '#241F20'
+    - '#FFD04B'
+    - '#5F5F5F'
+    - '#C7C7C7'
 github: true
-layout_spectrum: 0.14464401500299573
 author:
   name: Barry Scheurweghs
   email: surewaytolive@gmail.com
