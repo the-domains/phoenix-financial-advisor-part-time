@@ -1,7 +1,14 @@
 ---
-author: []
+author:
+  - name: Symmetry Financial Group
+    url: 'https://www.youtube.com/channel/UCM2fbnSc9kUsuKTC1qwseLg'
+    avatar: {}
 related: []
-publisher: {}
+publisher:
+  url: 'https://www.youtube.com/'
+  name: YouTube
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+  domain: youtu.be
 keywords:
   - symmetry
   - duration
@@ -13,7 +20,11 @@ keywords:
   - interview
   - wilson
   - corporate
-description: Financial Advisor Part Time Jobs
+description: >-
+  Symmetry Financial Group Destinations is by far our favorite trip of the year
+  and we want as many as possible there with us. You may be wondering how you
+  can qualify and want to know more about our Destination trips. Check out this
+  quick video that explains everything. See you in Cancun!
 inLanguage: en
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=J6RQCL5GsBE&feature=applinks'
@@ -52,9 +63,9 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-title: Quality Of Life Found Here
-datePublished: '2017-01-01T23:29:56.297Z'
-dateModified: '2017-01-01T23:29:55.780Z'
+title: Qualifying for Symmetry Destination '17
+datePublished: '2017-01-01T23:32:00.815Z'
+dateModified: '2017-01-01T23:32:00.415Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-31-qualifying-for-symmetry-destination-17.md
@@ -66,9 +77,6 @@ _type: VideoObject
 _context: 'http://schema.org'
 
 ---
-# Quality Of Life Found Here
-![Financial Advisor Part Time Jobs](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cab71c7f-ec60-4983-b53a-1487a5b59c03.jpg)
-
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FJ6RQCL5GsBE%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJ6RQCL5GsBE&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJ6RQCL5GsBE%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
 ---
