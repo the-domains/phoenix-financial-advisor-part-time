@@ -4,9 +4,9 @@
         <description><![CDATA[Sureway Financial]]></description>
         <link>http://surewayfinancial.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 Jan 2017 22:22:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Jan 2017 22:47:39 GMT</lastBuildDate>
         <atom:link href="http://surewayfinancial.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 01 Jan 2017 22:22:05 GMT</pubDate>
+        <pubDate>Sun, 01 Jan 2017 22:47:23 GMT</pubDate>
         <item>
             <title><![CDATA[Symmetry Financial Group Corporate Overview]]></title>
             <description><![CDATA[<article><h1>Symmetry Financial Group Corporate Overview</h1><p>We’re Hiring Part Time & Full Time Agents in USA</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/55f621592769dbb9f42792c68b2e3ba0/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FMV8AUTd6C8U%2Fmaxresdefault.jpg"></article>]]></description>
@@ -20,6 +20,13 @@
             <link>http://surewayfinancial.com/quality-of-life-found-here/index.html</link>
             <guid isPermaLink="false">4f058d20-b192-4a87-96b1-e4fc43cc4266</guid>
             <pubDate>Sun, 01 Jan 2017 22:22:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Apply Now]]></title>
+            <description><![CDATA[<article><h1>Apply Now</h1><p>We’re Hiring Account Management Executive / 9-12K Monthly</p></article>]]></description>
+            <link>http://surewayfinancial.com/apply-now/index.html</link>
+            <guid isPermaLink="false">6d3fa622-93f7-4384-ac72-b818f26074c9</guid>
+            <pubDate>Sun, 01 Jan 2017 22:47:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
