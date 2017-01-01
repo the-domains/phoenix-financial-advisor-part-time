@@ -1,4 +1,3 @@
-layout_spectrum: 0.14920425847836652
 typography_spectrum: 0.2921896668880403
 color:
   brandStrength: 0.3265962691367189
@@ -12,6 +11,7 @@ color:
     - '#5F5F5F'
     - '#C7C7C7'
 github: true
+layout_spectrum: 0.14920425847836652
 author:
   name: Barry Scheurweghs
   email: surewaytolive@gmail.com
@@ -28,7 +28,7 @@ description: We're Hiring Financial Consultants
 purpose:
   - type: contact
     url: 'tel:480-360-1864'
-    label: Click to Text or Call
+    label: Text / Call
   - type: external
     url: 'https://calendly.com/surewaytolive/15min/12-31-2016?back=1'
     label: 'Schedule Interview '
