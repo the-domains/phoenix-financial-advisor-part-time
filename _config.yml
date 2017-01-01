@@ -18,7 +18,7 @@ author:
   url: SurewayFinancial.com
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c301349b-1f65-4874-abd2-9f65106e821b.png
-name: Hiring Financial Consultants
+name: Financial Consultants
 url: 'http://surewayfinancial.com'
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/28c92b2f-acf6-4a39-8210-d81a5e04fb5d.jpg
@@ -28,7 +28,7 @@ description: We're Hiring Financial Consultants
 purpose:
   - type: contact
     url: 'tel:480-360-1864'
-    label: Text / Call
+    label: TEXT/CALL
   - type: external
     url: 'https://calendly.com/surewaytolive/15min/12-31-2016?back=1'
     label: 'Schedule Interview '
