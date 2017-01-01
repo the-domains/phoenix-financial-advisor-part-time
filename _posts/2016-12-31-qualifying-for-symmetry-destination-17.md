@@ -53,8 +53,8 @@ app_links:
     namespace: google
     type: ios
 title: Quality Of Life Found Here
-datePublished: '2017-01-01T22:22:04.886Z'
-dateModified: '2016-12-31T23:09:34.182Z'
+datePublished: '2017-01-01T23:13:07.886Z'
+dateModified: '2017-01-01T23:13:07.350Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-31-qualifying-for-symmetry-destination-17.md
