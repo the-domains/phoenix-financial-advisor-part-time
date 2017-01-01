@@ -20,11 +20,7 @@ keywords:
   - interview
   - wilson
   - corporate
-description: >-
-  Symmetry Financial Group Destinations is by far our favorite trip of the year
-  and we want as many as possible there with us. You may be wondering how you
-  can qualify and want to know more about our Destination trips. Check out this
-  quick video that explains everything. See you in Cancun!
+description: ''
 inLanguage: en
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=J6RQCL5GsBE&feature=applinks'
@@ -63,9 +59,9 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-title: Qualifying for Symmetry Destination '17
-datePublished: '2017-01-01T23:32:00.815Z'
-dateModified: '2017-01-01T23:32:00.415Z'
+title: ''
+datePublished: '2017-01-01T23:39:59.811Z'
+dateModified: '2017-01-01T23:39:59.218Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-31-qualifying-for-symmetry-destination-17.md
