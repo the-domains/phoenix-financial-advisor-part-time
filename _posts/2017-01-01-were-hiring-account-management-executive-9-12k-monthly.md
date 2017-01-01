@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: We’re Hiring Account Management Executive / 9-12K Monthly
-dateModified: '2017-01-01T22:47:22.766Z'
-datePublished: '2017-01-01T22:47:23.256Z'
+dateModified: '2017-01-01T22:52:25.812Z'
+datePublished: '2017-01-01T22:52:26.554Z'
 title: Apply Now
 author: []
 publisher: {}
@@ -23,15 +23,9 @@ Compensation: $95,000 to $140,000 Annually
 
 Employment Type: Full-Time / Part Time
 
-> We are looking for self-motivated, goal-oriented, successful sales professionals that want more out of their career. Are you tired of not making what you are worth? Are you sick of the long hours and not being able to spend time with your family?
-
-# **[Apply Now][0]**
-
 The Sureway Financial Agency, in partnership with Symmetry Financial Group, currently seeks outside account management executives who are self-motivated and want to control their own career with **NO COLD CALLING & NO DOOR TO DOOR SALES!!!**
 
-> Most agents earn $95K to $144K first year. Part-time 15-20 hours a week make about $35K to $50K. Are you tired of not getting paid you're worth, Apply Now!
-
-**Warm Lead Program That Places You In Front of Buyers:** Our clients have requested our services after retaining a new mortgage. We only see the people that want our services! **There is No Cold Calling or Door-To-Door Sales!**
+**Exclusive Warm Lead Program That Places You In Front of Buyers:** Our clients have requested our services after retaining a new mortgage. We only see the people that want our services! **There is No Cold Calling or Door-To-Door Sales!**
 
 **Comprehensive Training:** We offer an elite set of products available for Advanced Producers and Financial Advisors. We have over 50 years experience in the financial business sector.
 
@@ -47,8 +41,8 @@ The Sureway Financial Agency, in partnership with Symmetry Financial Group, curr
 
 **Symmetry Financial Group**, Fastest growing insurance organization in the U.S. and is headquartered in Asheville, NC. Our agents are located all across the United States. Our agency management team has over 50 years of industry experience and we offer a variety of financial and insurance solutions leveraging the very best providers in the country.
 
-Our professional approach - comprehensive training system - coupled with qualified leads - spur our success and instigated Symmetry Financial Group's growth from a few hundred thousand dollars in sales in 2009 to over $35 million in 2015\. We are currently on pace to surpass 50 million this year and 100 million in sales in the next few years! Even with our continued growth, we still place a focus on our agents and their families. **Family time is important to us**, and we seek those who value time with their families. 
-> 
+Our professional approach - comprehensive training system - coupled with qualified leads - spur our success and instigated Symmetry Financial Group's growth from a few hundred thousand dollars in sales in 2009 to over $35 million in 2015\. We are currently on pace to surpass 50 million this year and 100 million in sales in the next few years! Even with our continued growth, we still place a focus on our agents and their families. **Family time is important to us**, and we seek those who value time with their families.
+
 > A great career should not include working your life away, and we place a top priority on helping you achieve the proper work/life balance, all while earning top-level income. Apply now, as we would love to have you become part of our family!
 
 We want our agents to grow and succeed in their business, and we believe the best way to do this is to simplify the process. By removing the burdens and complications of everything from leads management, contracting paperwork, and writing new business, to how to market and grow your own agency, we allow you to spend less time behind the scenes, and more time doing what you do best: making sales!
