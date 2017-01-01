@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: We’re Hiring Account Management Executive / 9-12K Monthly
-dateModified: '2017-01-01T22:53:16.759Z'
-datePublished: '2017-01-01T22:53:17.177Z'
-title: Apply Now
+dateModified: '2017-01-01T23:02:44.882Z'
+datePublished: '2017-01-01T23:02:45.421Z'
+title: ''
 author: []
 publisher: {}
 via: {}
@@ -46,9 +46,9 @@ Our professional approach - comprehensive training system - coupled with qualifi
 
 We want our agents to grow and succeed in their business, and we believe the best way to do this is to simplify the process. By removing the burdens and complications of everything from leads management, contracting paperwork, and writing new business, to how to market and grow your own agency, we allow you to spend less time behind the scenes, and more time doing what you do best: making sales!
 
-**The Leads Department is The Cornerstone of Symmetry Financial Group:** Their purpose is to streamline the sales process by placing each agent in front of buyers, thus eliminating the need for prospecting. Through this venue, agents enter their request for leads using our custom Opt! System. From the very first phone call until the final sale and application submittal, our sophisticated CRM Software allows agents to manage their client database.
+**The Leads Department is The Cornerstone of Symmetry Financial Group:** Their purpose is to streamline the sales process by placing agents in front of buyers, thus eliminating the need for prospecting. From the very first phone call until the final sale and application, our CRM Software allows agents to manage their client database. 
 
-# **[Apply Now][0]**
+**[Apply Now][0]**
 
 ---
 
