@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: We’re Hiring Account Management Executive / 9-12K Monthly
-dateModified: '2017-01-01T23:42:15.774Z'
-datePublished: '2017-01-01T23:42:16.324Z'
+dateModified: '2017-01-01T23:45:14.725Z'
+datePublished: '2017-01-01T23:45:15.161Z'
 title: ''
 author: []
 publisher: {}
@@ -14,6 +14,8 @@ datePublishedOriginal: '2017-01-01T19:47:30.085Z'
 _type: Blurb
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/67d3fdfa-c9c7-4cb6-a436-dc16208094d8.jpg)
+
 We're Hiring Account Management Executive / 9-12K Monthly
 
 Sureway Financial in Partnership with Symmetry Financial Group
