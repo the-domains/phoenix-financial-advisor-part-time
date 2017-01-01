@@ -31,4 +31,4 @@ purpose:
     label: TEXT/CALL
   - type: external
     url: 'https://calendly.com/surewaytolive/15min/12-31-2016?back=1'
-    label: 'Schedule Interview '
+    label: SCHEDULE INTERVIEW
