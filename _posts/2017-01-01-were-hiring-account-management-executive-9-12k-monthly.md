@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: We’re Hiring Account Management Executive / 9-12K Monthly
-dateModified: '2017-01-01T23:29:55.780Z'
-datePublished: '2017-01-01T23:29:56.274Z'
-title: Apply Now
+dateModified: '2017-01-01T23:42:15.774Z'
+datePublished: '2017-01-01T23:42:16.324Z'
+title: ''
 author: []
 publisher: {}
 via: {}
@@ -24,7 +24,7 @@ Employment Type: Full-Time / Part Time
 
 The Sureway Financial Agency, in partnership with Symmetry Financial Group, currently seeks outside account management executives who are self-motivated and want to control their own career with **NO COLD CALLING & NO DOOR TO DOOR SALES!**
 
-**Exclusive Warm Lead Program That Places You In Front of Buyers:****Our clients have requested our services after retaining a new mortgage. We only see the people that want our services!**
+**Exclusive Warm Lead Program That Places You In Front of Buyers:Our clients have requested our services after retaining a new mortgage. We only see the people that want our services!**
 
 **There is No Cold Calling or Door-To-Door Sales!**
 
@@ -52,10 +52,4 @@ We want our agents to grow and succeed in their business, and we believe the bes
 
 **The Leads Department is The Cornerstone of Symmetry Financial Group:** Their purpose is to streamline the sales process by placing agents in front of buyers, thus eliminating the need for prospecting. From the very first phone call until the final sale and application, our CRM Software allows agents to manage their client database.
 
-## **[Apply Now][0]**
-
 ---
-
-
-
-[0]: https://calendly.com/surewaytolive/15min/01-01-2017
