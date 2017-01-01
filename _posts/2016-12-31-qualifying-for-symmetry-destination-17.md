@@ -1,14 +1,7 @@
 ---
-author:
-  - name: Symmetry Financial Group
-    url: 'https://www.youtube.com/channel/UCM2fbnSc9kUsuKTC1qwseLg'
-    avatar: {}
+author: []
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: youtu.be
+publisher: {}
 keywords:
   - symmetry
   - duration
@@ -60,8 +53,8 @@ app_links:
     namespace: google
     type: ios
 title: ''
-datePublished: '2017-01-01T23:39:59.811Z'
-dateModified: '2017-01-01T23:39:59.218Z'
+datePublished: '2017-01-01T23:56:36.393Z'
+dateModified: '2017-01-01T23:56:36.035Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-31-qualifying-for-symmetry-destination-17.md
@@ -73,6 +66,8 @@ _type: VideoObject
 _context: 'http://schema.org'
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b243a981-8c8d-47c8-bb19-15a52c6641e3.jpg)
+
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FJ6RQCL5GsBE%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJ6RQCL5GsBE&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJ6RQCL5GsBE%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
 ---
