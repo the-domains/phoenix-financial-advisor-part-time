@@ -60,9 +60,9 @@ app_links:
     namespace: google
     type: ios
 isBasedOnUrl: 'https://youtu.be/MV8AUTd6C8U'
-title: Symmetry Financial Group Corporate Overview
-datePublished: '2017-01-01T18:07:32.808Z'
-dateModified: '2017-01-01T18:07:32.065Z'
+title: ''
+datePublished: '2017-01-01T23:39:03.288Z'
+dateModified: '2017-01-01T23:39:02.792Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-31-symmetry-financial-group-corporate-overview.md
