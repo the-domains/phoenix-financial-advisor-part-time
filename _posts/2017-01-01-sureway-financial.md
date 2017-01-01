@@ -1,9 +1,9 @@
 ---
-description: 'Phoenix, Arizona'
+description: ''
 author: []
-datePublished: '2017-01-01T23:29:56.278Z'
-dateModified: '2017-01-01T23:29:55.780Z'
-title: Sureway Financial
+datePublished: '2017-01-01T23:38:19.608Z'
+dateModified: '2017-01-01T23:38:19.168Z'
+title: ''
 publisher: {}
 via: {}
 inFeed: true
@@ -14,4 +14,4 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![Phoenix, Arizona](https://the-grid-user-content.s3-us-west-2.amazonaws.com/156e03eb-0968-48ae-8ea8-205d9032976b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/156e03eb-0968-48ae-8ea8-205d9032976b.jpg)
