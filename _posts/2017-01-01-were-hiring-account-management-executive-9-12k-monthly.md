@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: We’re Hiring Account Management Executive / 9-12K Monthly
-dateModified: '2017-01-02T13:29:46.298Z'
-datePublished: '2017-01-02T13:29:46.684Z'
+dateModified: '2017-01-02T14:14:25.879Z'
+datePublished: '2017-01-02T14:14:26.378Z'
 title: ''
 author: []
 publisher: {}
@@ -18,11 +18,10 @@ _type: Blurb
 
 We're Hiring Account Management Executive / 9-12K Monthly
 
-Sureway Financial in Partnership with Symmetry Financial Group
+Full-Time / Part-Time
 
 Compensation: $95,000 to $140,000 Annually
-
-Employment Type: Full-Time / Part Time
+[Schedule Call Today][0]
 
 Sureway Financial is in partnership with Symmetry Financial Group, currently seeks outside account management executives who are self-motivated and want to control their own career with **NO COLD CALLING & NO DOOR TO DOOR SALES!**
 
@@ -53,3 +52,7 @@ We are currently on pace to surpass 50 million this year and 100 million in sale
 **The Leads Department is The Cornerstone of Symmetry Financial Group:** Their purpose is to streamline the sales process by placing agents in front of buyers, thus eliminating the need for prospecting. From the very first phone call until the final sale and application, our CRM Software allows agents to manage their client database.
 
 ---
+
+
+
+[0]: https://calendly.com/surewaytolive
