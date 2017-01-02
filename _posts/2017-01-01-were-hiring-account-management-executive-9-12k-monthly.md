@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: We’re Hiring Account Management Executive / 9-12K Monthly
-dateModified: '2017-01-02T14:18:58.457Z'
-datePublished: '2017-01-02T14:18:58.875Z'
+description: We’re Hiring Account Management Executive
+dateModified: '2017-01-02T14:56:44.501Z'
+datePublished: '2017-01-02T14:56:47.297Z'
 title: ''
 author: []
 publisher: {}
@@ -16,11 +16,13 @@ _type: Blurb
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/67d3fdfa-c9c7-4cb6-a436-dc16208094d8.jpg)
 
-We're Hiring Account Management Executive / 9-12K Monthly
+We're Hiring Account Management Executive
+
+$8,000 - $12,000 Monthly
 
 Full-Time / Part-Time
 
-Compensation: $95,000 to $140,000 Annually
+Compensation: $95,000 - $140,000 Annually
 [Schedule Call Today][0]
 
 Sureway Financial is in partnership with Symmetry Financial Group, currently seeks outside account management executives who are self-motivated and want to control their own career with **NO COLD CALLING & NO DOOR TO DOOR SALES!**
