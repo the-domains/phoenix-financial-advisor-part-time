@@ -52,16 +52,16 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
+isBasedOnUrl: 'https://youtu.be/J6RQCL5GsBE'
 title: ''
-datePublished: '2017-01-02T00:04:20.066Z'
-dateModified: '2017-01-02T00:04:19.691Z'
+datePublished: '2017-01-02T00:04:52.185Z'
+dateModified: '2017-01-02T00:04:51.703Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-31-qualifying-for-symmetry-destination-17.md
-hasPage: true
+hasPage: false
 starred: false
 datePublishedOriginal: '2017-01-01T22:22:04.886Z'
-url: quality-of-life-found-here/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
