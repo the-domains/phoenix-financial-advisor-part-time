@@ -1,4 +1,3 @@
-layout_spectrum: 0.306330018183032
 typography_spectrum: 0.16283316894443614
 color:
   brandStrength: 0.27450711921871745
@@ -12,6 +11,7 @@ color:
     - '#5F5F5F'
     - '#C7C7C7'
 github: true
+layout_spectrum: 0.306330018183032
 author:
   name: Barry Scheurweghs
   email: surewaytolive@gmail.com
@@ -24,7 +24,7 @@ favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/28c92b2f-acf6-4a39-8210-d81a5e04fb5d.jpg
 title: Sureway Financial is Hiring Financial Consultants
 content: []
-description: Schedule Your Interview
+description: Schedule Your Interview Today
 purpose:
   - type: external
     url: 'https://calendly.com/surewaytolive/15min/12-31-2016?back=1'
