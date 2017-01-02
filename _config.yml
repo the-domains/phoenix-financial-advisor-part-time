@@ -1,16 +1,16 @@
-layout_spectrum: 0.8072388473787521
-typography_spectrum: 0.11493370444919582
+layout_spectrum: 0.042755995030690094
+typography_spectrum: 0.6910392131067185
 color:
-  brandStrength: 0.20372075509639587
-  lightness: 0.6143939002559031
-  saturation: 0.3618780537429127
-  rhythmicContrast: 0.051896046892749056
+  brandStrength: 0.39406371701813053
+  lightness: 0.18147583654224134
+  saturation: 0.3908922377900949
+  rhythmicContrast: 0.7140456862073613
   brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
 github: true
 author:
   name: Barry Scheurweghs
