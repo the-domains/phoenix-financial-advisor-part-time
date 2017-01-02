@@ -53,8 +53,8 @@ app_links:
     namespace: google
     type: ios
 title: ''
-datePublished: '2017-01-01T23:57:48.337Z'
-dateModified: '2017-01-01T23:57:48.106Z'
+datePublished: '2017-01-02T00:04:20.066Z'
+dateModified: '2017-01-02T00:04:19.691Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-31-qualifying-for-symmetry-destination-17.md
