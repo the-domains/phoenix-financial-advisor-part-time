@@ -18,7 +18,7 @@ author:
   url: 'http://surewayfinancial.com'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c301349b-1f65-4874-abd2-9f65106e821b.png
-name: Financial Consultants
+name: Sureway Financial
 url: 'http://surewayfinancial.com'
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/28c92b2f-acf6-4a39-8210-d81a5e04fb5d.jpg
@@ -28,4 +28,4 @@ description: Schedule Today
 purpose:
   - type: external
     url: 'https://calendly.com/surewaytolive'
-    label: Click To Schedule Call
+    label: Schedule Call
