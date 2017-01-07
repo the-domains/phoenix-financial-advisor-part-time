@@ -1,7 +1,7 @@
 ---
 title: ''
-datePublished: '2017-01-07T18:49:27.061Z'
-dateModified: '2017-01-07T18:49:26.370Z'
+datePublished: '2017-01-07T18:53:55.987Z'
+dateModified: '2017-01-07T18:53:55.465Z'
 publisher: {}
 author: []
 inFeed: true
@@ -35,7 +35,7 @@ Sureway Financial in partnership with Symmetry Financial Group, currently seeks 
 
 > World Class Incentive Trips & Bonuses: Our agents participate in trips most people dream about. Barcelona, Maui, Cancun, Naples, and Alaska are just some of the destinations our agents will travel to in 2017, all provided by our carriers!
 
-Our executives thrive on working for themselves. Sales consultants need a Life License or a willingness to acquire one with our assistance.
+Our executives thrive on working for themselves. Agents need a Life License or a willingness to acquire one with our assistance.
 
 **Symmetry Financial Group**, Fastest growing insurance organization in USA and is headquartered in Asheville, NC. Our agents are located all across USA. We have over 50 years of industry experience and offer a variety of financial and insurance solutions leveraging the very best providers in the country.
 
