@@ -1,10 +1,6 @@
 ---
-author:
-  - name: ''
-    url: 'https://www.youtube.com/channel/UCM2fbnSc9kUsuKTC1qwseLg'
-    avatar: {}
-related: []
-publisher: {}
+isBasedOnUrl: 'https://youtu.be/MV8AUTd6C8U'
+inLanguage: en
 keywords:
   - symmetry
   - duration
@@ -16,54 +12,20 @@ keywords:
   - corporate
   - recruiting
   - gomez
-description: ''
-inLanguage: en
-app_links:
-  - url: 'vnd.youtube://www.youtube.com/watch?v=MV8AUTd6C8U&feature=applinks'
-    type: ios
-    namespace: ai
-    app_store_id: '544007664'
-    app_name: YouTube
-  - url: 'vnd.youtube://www.youtube.com/watch?v=MV8AUTd6C8U&feature=applinks'
-    type: android
-    namespace: ai
-    app_name: YouTube
-    package: com.google.android.youtube
-  - url: 'https://www.youtube.com/watch?v=MV8AUTd6C8U&feature=applinks'
-    type: web
-    namespace: ai
-  - url: 'vnd.youtube://www.youtube.com/watch?v=MV8AUTd6C8U&feature=applinks'
-    namespace: twitter
-    type: ipad
-    name: YouTube
-    id: '544007664'
-  - url: 'vnd.youtube://www.youtube.com/watch?v=MV8AUTd6C8U&feature=applinks'
-    namespace: twitter
-    type: iphone
-    name: YouTube
-    id: '544007664'
-  - url: 'https://www.youtube.com/watch?v=MV8AUTd6C8U'
-    namespace: twitter
-    type: googleplay
-    name: YouTube
-    id: com.google.android.youtube
-  - path: http/www.youtube.com/watch?v=MV8AUTd6C8U
-    package: com.google.android.youtube
-    namespace: google
-    type: android
-  - path: vnd.youtube/www.youtube.com/watch?v=MV8AUTd6C8U
-    package: '544007664'
-    namespace: google
-    type: ios
-isBasedOnUrl: 'https://youtu.be/MV8AUTd6C8U'
-title: ''
-datePublished: '2017-01-04T00:52:29.174Z'
-dateModified: '2017-01-04T00:52:28.828Z'
-via: {}
+title: View Short Company Video
+datePublished: '2017-01-07T02:43:15.746Z'
+dateModified: '2017-01-07T02:43:04.371Z'
+publisher: {}
+author:
+  - name: ''
+    url: 'https://www.youtube.com/channel/UCM2fbnSc9kUsuKTC1qwseLg'
+    avatar: {}
 inFeed: true
-sourcePath: _posts/2016-12-31-symmetry-financial-group-corporate-overview.md
-starred: false
+description: ''
+via: {}
+starred: true
 datePublishedOriginal: '2016-12-31T17:00:21.696Z'
+sourcePath: _posts/2016-12-31-symmetry-financial-group-corporate-overview.md
 _type: VideoObject
 _context: 'http://schema.org'
 
