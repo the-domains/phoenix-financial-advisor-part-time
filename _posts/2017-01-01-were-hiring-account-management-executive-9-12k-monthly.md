@@ -1,7 +1,7 @@
 ---
 title: ''
-datePublished: '2017-01-07T18:40:07.928Z'
-dateModified: '2017-01-07T18:40:07.412Z'
+datePublished: '2017-01-07T18:41:04.460Z'
+dateModified: '2017-01-07T18:41:04.105Z'
 publisher: {}
 author: []
 inFeed: true
@@ -41,7 +41,7 @@ Sureway Financial in partnership with Symmetry Financial Group, currently seeks 
 
 Our executives thrive on working for themselves. Sales consultants need a Life License or a willingness to acquire one with our assistance.
 
-**Symmetry Financial Group**, Fastest growing insurance organization in the U.S. and is headquartered in Asheville, NC. Our agents are located all across USA. We have over 50 years of industry experience and offer a variety of financial and insurance solutions leveraging the very best providers in the country.
+**Symmetry Financial Group**, Fastest growing insurance organization in USA and is headquartered in Asheville, NC. Our agents are located all across USA. We have over 50 years of industry experience and offer a variety of financial and insurance solutions leveraging the very best providers in the country.
 
 > Our professional approach - comprehensive training system - coupled with qualified leads - spur our success and instigated Symmetry Financial Group's growth from a few hundred thousand dollars in sales in 2009 to over $35 million in 2015\.
 
