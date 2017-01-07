@@ -1,31 +1,35 @@
+name: Sureway Financial
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/28c92b2f-acf6-4a39-8210-d81a5e04fb5d.jpg
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c301349b-1f65-4874-abd2-9f65106e821b.png
+layout_spectrum: 0.306330018183032
 typography_spectrum: 0.16283316894443614
+opengraph:
+  type: ''
+  appId: ''
 color:
-  brandStrength: 0.27450711921871745
-  lightness: 0.6303253047396014
-  saturation: 0.5018797573393745
-  rhythmicContrast: 0.12575476189346818
   brandColors:
     - '#FFFFFF'
     - '#241F20'
     - '#FFD04B'
     - '#5F5F5F'
     - '#C7C7C7'
-github: true
-layout_spectrum: 0.306330018183032
-author:
-  name: Barry Scheurweghs
-  email: surewaytolive@gmail.com
-  url: 'http://surewayfinancial.com'
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c301349b-1f65-4874-abd2-9f65106e821b.png
-name: Sureway Financial
-url: 'http://surewayfinancial.com'
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/28c92b2f-acf6-4a39-8210-d81a5e04fb5d.jpg
-title: We're Hiring New Agents
-content: []
-description: Schedule Today
+  brandStrength: 0.27450711921871745
+  lightness: 0.6303253047396014
+  saturation: 0.5018797573393745
+  rhythmicContrast: 0.12575476189346818
 purpose:
   - type: external
-    url: 'https://calendly.com/surewaytolive'
     label: Schedule Call
+    url: 'https://calendly.com/surewaytolive'
+title: We're Hiring
+description: Schedule Interview
+author:
+  name: Barry Scheurweghs
+  url: 'http://surewayfinancial.com'
+  email: surewaytolive@gmail.com
+content_rating:
+  adult: false
+content: []
+github: true
