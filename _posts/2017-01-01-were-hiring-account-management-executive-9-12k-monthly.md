@@ -1,7 +1,7 @@
 ---
 title: ''
-datePublished: '2017-01-07T18:56:14.920Z'
-dateModified: '2017-01-07T18:56:14.097Z'
+datePublished: '2017-01-07T19:51:43.075Z'
+dateModified: '2017-01-07T19:51:42.273Z'
 publisher: {}
 author: []
 inFeed: true
@@ -27,7 +27,7 @@ Sureway Financial in partnership with Symmetry Financial Group, currently seeks 
 
 **Exclusive Warm Lead Program That Places You In Front of Buyers. Our clients have requested our services after retaining a new mortgage. We only see the people that want our services!**
 
-> Most full-time representatives work fewer than 40 hours. Part time 7-10 hours a week earning $2,400-4,800 monthly.
+> Most full-time agents work fewer than 40 hours. Part time Agents work 7-10 hrs/week earning $2,400-4,800 monthly.
 
 [Symmetry Inc. 5000 Ranking][1]
 
