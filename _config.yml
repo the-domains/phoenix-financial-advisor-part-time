@@ -31,8 +31,5 @@ content: []
 description: ''
 purpose:
   - type: external
-    label: Schedule Call
-    url: 'https://calendly.com/surewaytolive'
-  - type: external
     url: 'https://calendly.com/surewaytolive'
     label: Schedule Interview
