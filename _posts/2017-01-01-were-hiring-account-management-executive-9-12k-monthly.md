@@ -1,16 +1,16 @@
 ---
 title: ''
-datePublished: '2017-01-07T18:29:01.270Z'
-dateModified: '2017-01-07T18:29:00.721Z'
+datePublished: '2017-01-07T18:40:07.928Z'
+dateModified: '2017-01-07T18:40:07.412Z'
 publisher: {}
 author: []
 inFeed: true
 hasPage: false
 description: We’re Hiring Consultants
 via: {}
+sourcePath: _posts/2017-01-01-were-hiring-account-management-executive-9-12k-monthly.md
 starred: true
 datePublishedOriginal: '2017-01-01T19:47:30.085Z'
-sourcePath: _posts/2017-01-01-were-hiring-account-management-executive-9-12k-monthly.md
 _type: Blurb
 
 ---
@@ -45,7 +45,7 @@ Our executives thrive on working for themselves. Sales consultants need a Life L
 
 > Our professional approach - comprehensive training system - coupled with qualified leads - spur our success and instigated Symmetry Financial Group's growth from a few hundred thousand dollars in sales in 2009 to over $35 million in 2015\.
 
-We are currently on pace to surpass 50 million this year and 100 million in sales in the next few years! Even with our continued growth, **we still place a focus on our agents and their families.**
+**We are currently on pace to surpass 50 million this year and 100 million in sales in the next few years! Even with our continued growth,****we still place a focus on our agents and their families.**
 
 > A great career should not include working your life away, and we place a top priority on helping you achieve the proper work/life balance, all while earning top-level income. Apply now, as we would love to have you become part of our family!
 
