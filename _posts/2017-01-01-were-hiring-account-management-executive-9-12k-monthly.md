@@ -1,7 +1,7 @@
 ---
 title: ''
-datePublished: '2017-01-07T18:53:55.987Z'
-dateModified: '2017-01-07T18:53:55.465Z'
+datePublished: '2017-01-07T18:56:14.920Z'
+dateModified: '2017-01-07T18:56:14.097Z'
 publisher: {}
 author: []
 inFeed: true
@@ -39,7 +39,7 @@ Our executives thrive on working for themselves. Agents need a Life License or a
 
 **Symmetry Financial Group**, Fastest growing insurance organization in USA and is headquartered in Asheville, NC. Our agents are located all across USA. We have over 50 years of industry experience and offer a variety of financial and insurance solutions leveraging the very best providers in the country.
 
-> Our professional approach - comprehensive training system - coupled with qualified leads - spur our success and instigated Symmetry Financial Group's growth from a few hundred thousand dollars in sales in 2009 to over $35 million in 2015\.
+> Our professional approach - comprehensive training system - coupled with qualified leads - spur our success and instigated Symmetry Financial Group's growth from a few hundred thousand dollars in sales in 2009 to $11 million in 2015\.
 
 **We are currently on pace to surpass 50 million this year and 100 million in sales in the next few years! Even with our continued growth,****we still place a focus on our agents and their families.**
 
