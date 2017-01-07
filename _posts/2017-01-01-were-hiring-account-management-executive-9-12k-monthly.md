@@ -1,7 +1,7 @@
 ---
 title: ''
-datePublished: '2017-01-07T18:41:04.460Z'
-dateModified: '2017-01-07T18:41:04.105Z'
+datePublished: '2017-01-07T18:49:27.061Z'
+dateModified: '2017-01-07T18:49:26.370Z'
 publisher: {}
 author: []
 inFeed: true
@@ -21,17 +21,13 @@ We're Hiring Consultants
 $8,000 - $12,000 Monthly
 
 Full-Time / Part-Time
-
-Compensation: $95,000 - $140,000 Annually
 [Schedule Call Today][0]
 
-Sureway Financial in partnership with Symmetry Financial Group, currently seeks outside account management executives want to control their own career with **NO COLD CALLING & NO DOOR TO DOOR SALES!**
+Sureway Financial in partnership with Symmetry Financial Group, currently seeks outside account management executives wanting to control their own career with **NO COLD CALLING & NO DOOR TO DOOR SALES!**
 
 **Exclusive Warm Lead Program That Places You In Front of Buyers. Our clients have requested our services after retaining a new mortgage. We only see the people that want our services!**
 
-**There is No Cold Calling or Door-To-Door Sales!**
-
-> Easy Workweek: Most full-time representatives work fewer than 40 hours a week. We have openings for part time reps that earn $2,000-4,000 monthly.
+> Most full-time representatives work fewer than 40 hours. Part time 7-10 hours a week earning $2,400-4,800 monthly.
 
 [Symmetry Inc. 5000 Ranking][1]
 
