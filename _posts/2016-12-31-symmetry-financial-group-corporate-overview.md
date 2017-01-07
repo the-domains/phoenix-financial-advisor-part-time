@@ -12,9 +12,9 @@ keywords:
   - corporate
   - recruiting
   - gomez
-title: View Short Company Video
-datePublished: '2017-01-07T02:43:15.746Z'
-dateModified: '2017-01-07T02:43:04.371Z'
+title: View Company Video
+datePublished: '2017-01-07T18:18:58.706Z'
+dateModified: '2017-01-07T18:18:58.050Z'
 publisher: {}
 author:
   - name: ''
@@ -23,9 +23,9 @@ author:
 inFeed: true
 description: ''
 via: {}
+sourcePath: _posts/2016-12-31-symmetry-financial-group-corporate-overview.md
 starred: true
 datePublishedOriginal: '2016-12-31T17:00:21.696Z'
-sourcePath: _posts/2016-12-31-symmetry-financial-group-corporate-overview.md
 _type: VideoObject
 _context: 'http://schema.org'
 
