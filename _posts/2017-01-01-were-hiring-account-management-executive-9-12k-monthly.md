@@ -1,7 +1,7 @@
 ---
 title: ''
-datePublished: '2017-01-07T20:31:39.802Z'
-dateModified: '2017-01-07T20:31:39.039Z'
+datePublished: '2017-01-07T20:39:47.572Z'
+dateModified: '2017-01-07T20:39:46.821Z'
 publisher: {}
 author: []
 inFeed: true
@@ -23,7 +23,7 @@ $8,000 - $12,000 Monthly
 Full-Time / Part-Time
 [Schedule Call Today][0]
 
-Sureway Financial in partnership with Symmetry Financial Group, currently seeks outside account management executives wanting to control their own career with **NO COLD CALLING & NO DOOR TO DOOR SALES!**
+Sureway Financial partnered with Symmetry Financial Group, hiring account agents wanting to control their own career with **NO COLD CALLING & NO DOOR TO DOOR SALES!**
 
 **Exclusive Warm Lead Program That Places You In Front of Buyers. Our clients have requested our services after retaining a new mortgage. We only see the people that want our services!**
 
