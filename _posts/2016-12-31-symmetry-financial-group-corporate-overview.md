@@ -12,9 +12,9 @@ keywords:
   - corporate
   - recruiting
   - gomez
-title: View Company Video
-datePublished: '2017-01-07T18:18:58.706Z'
-dateModified: '2017-01-07T18:18:58.050Z'
+title: 'View Video: The Symmetry Financial Group'
+datePublished: '2017-01-14T15:22:19.111Z'
+dateModified: '2017-01-14T15:22:18.752Z'
 publisher: {}
 author:
   - name: ''
