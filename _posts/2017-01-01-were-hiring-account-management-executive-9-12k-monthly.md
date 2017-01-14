@@ -1,7 +1,7 @@
 ---
 title: ''
-datePublished: '2017-01-14T15:51:42.244Z'
-dateModified: '2017-01-14T15:51:41.506Z'
+datePublished: '2017-01-14T16:19:03.404Z'
+dateModified: '2017-01-14T16:19:02.982Z'
 publisher: {}
 author: []
 inFeed: true
@@ -9,10 +9,7 @@ hasPage: false
 description: >-
   Sureway Financial partnered with Symmetry Financial Group was established with
   the goal of bringing balance to the professional and personal lives of
-  independent insurance agents and agency builders across the country. NO COLD
-  CALLING & NO DOOR TO DOOR SALES! Exclusive Warm Lead Program That Places You
-  In Front of Buyers. Our clients have requested our services after retaining a
-  new mortgage.
+  independent insurance agents and agency builders across the country. 
 via: {}
 sourcePath: _posts/2017-01-01-were-hiring-account-management-executive-9-12k-monthly.md
 starred: true
@@ -22,7 +19,11 @@ _type: Blurb
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/118b264a-24d5-41cd-8f7e-286fb5053a27.jpg)
 
-Sureway Financial partnered with Symmetry Financial Group was established with the goal of bringing balance to the professional and personal lives of independent insurance agents and agency builders across the country. **NO COLD CALLING & NO DOOR TO DOOR SALES!** Exclusive Warm Lead Program That Places You In Front of Buyers. Our clients have requested our services after retaining a new mortgage.
+Sureway Financial partnered with Symmetry Financial Group was established with the goal of bringing balance to the professional and personal lives of independent insurance agents and agency builders across the country. 
+> 
+> NO COLD CALLING & NO DOOR TO DOOR SALES!
+
+**Exclusive Warm Lead Program That Places You In Front of Buyers. Our clients have requested our services after retaining a new mortgage.**
 
 > If you're looking for the ability to make a great living while helping people, this could be the opportunity for you!
 
