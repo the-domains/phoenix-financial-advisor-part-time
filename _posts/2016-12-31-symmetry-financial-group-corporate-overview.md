@@ -12,8 +12,8 @@ keywords:
   - recruiting
   - gomez
 title: View SFG Video
-datePublished: '2017-01-19T01:14:02.514Z'
-dateModified: '2017-01-19T01:14:01.708Z'
+datePublished: '2017-01-19T01:19:40.915Z'
+dateModified: '2017-01-19T01:19:40.385Z'
 publisher: {}
 author:
   - name: ''
@@ -56,5 +56,11 @@ Our professional approach - comprehensive training system - coupled with qualifi
 
 **The Leads Department is The Cornerstone of Symmetry Financial Group:** Their purpose is to streamline the sales process by placing agents in front of buyers, thus eliminating the need for prospecting. From the very first phone call until the final sale and application, our CRM Software allows agents to manage their client database.
 [Schedule A Call][0]
+
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fvideoseries%3Flist%3DPLTZVUzQQJrcaszNxOnbtnTNnYY-IWjmw3&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCtC5EN_dNBI&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FCtC5EN_dNBI%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+
+---
+
+
 
 [0]: https://calendly.com/surewaytolive
