@@ -13,12 +13,15 @@ keywords:
   - recruiting
   - gomez
 title: ''
-datePublished: '2017-01-19T02:45:09.741Z'
-dateModified: '2017-01-19T02:45:09.143Z'
+datePublished: '2017-01-19T03:43:57.727Z'
+dateModified: '2017-01-19T03:43:57.024Z'
 publisher: {}
 author: []
 inFeed: true
-description: Sureway Financial Partnered With Symmetry Financial Group
+description: >-
+  Sureway Financial partnered with Symmetry Financial Group was established with
+  the goal of bringing balance to the professional and personal lives of
+  independent insurance agents and agency builders across the country.
 via: {}
 sourcePath: _posts/2016-12-31-symmetry-financial-group-corporate-overview.md
 hasPage: false
@@ -29,8 +32,6 @@ _context: 'http://schema.org'
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d884ccce-a460-4062-8865-2c03e6478cb1.jpg)
-
-Sureway Financial Partnered With Symmetry Financial Group
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FMV8AUTd6C8U%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DMV8AUTd6C8U&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FMV8AUTd6C8U%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
