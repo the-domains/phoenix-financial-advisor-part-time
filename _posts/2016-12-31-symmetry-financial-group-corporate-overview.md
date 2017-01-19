@@ -1,5 +1,4 @@
 ---
-isBasedOnUrl: 'https://youtu.be/MV8AUTd6C8U'
 inLanguage: en
 keywords:
   - symmetry
@@ -13,8 +12,8 @@ keywords:
   - recruiting
   - gomez
 title: View SFG Video
-datePublished: '2017-01-19T01:03:09.370Z'
-dateModified: '2017-01-19T01:03:08.624Z'
+datePublished: '2017-01-19T01:06:24.904Z'
+dateModified: '2017-01-19T01:06:24.058Z'
 publisher: {}
 author:
   - name: ''
@@ -27,8 +26,10 @@ description: >-
   independent insurance agents and agency builders across the country.
 via: {}
 sourcePath: _posts/2016-12-31-symmetry-financial-group-corporate-overview.md
+hasPage: true
 starred: true
 datePublishedOriginal: '2016-12-31T17:00:21.696Z'
+url: view-sfg-video/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
@@ -42,3 +43,22 @@ Sureway Financial partnered with Symmetry Financial Group was established with t
 **Exclusive Warm Lead Program That Places You In Front of Buyers. Our clients have requested our services after retaining a new mortgage.**
 
 > If you're looking for the ability to make a great living while helping people, this could be the opportunity for you!
+
+[Schedule A Call][0]
+
+Our professional approach - comprehensive training system - coupled with qualified leads - spur our success and instigated Symmetry Financial Group's growth from a few hundred thousand dollars in sales in 2009 to $11 million in 2015\.
+
+**Symmetry Financial Group**, Fastest growing insurance organization in USA, headquartered in Asheville, NC. Our agents are located all across America. We have over 50 years of industry experience and offer a variety of financial and insurance solutions leveraging the very best providers in the country.
+
+**Work Right Out of Your Home: **We focus on earning both TIME & MONEY, the definition of true wealth. Our agents spend 2-3 days a week meeting with clients. The rest of the work is done from the comfort of your own home.
+
+> World Class Incentive Trips & Bonuses: Our agents participate in trips most people dream about. Barcelona, Maui, Cancun, Naples, and Alaska are just some of the destinations our agents will travel to in 2017, all provided by our carriers!
+
+**The Leads Department is The Cornerstone of Symmetry Financial Group:** Their purpose is to streamline the sales process by placing agents in front of buyers, thus eliminating the need for prospecting. From the very first phone call until the final sale and application, our CRM Software allows agents to manage their client database.
+[Schedule A Call][0]
+
+---
+
+
+
+[0]: https://calendly.com/surewaytolive
