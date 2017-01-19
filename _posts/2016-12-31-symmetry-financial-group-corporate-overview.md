@@ -13,13 +13,10 @@ keywords:
   - recruiting
   - gomez
 title: View SFG Video
-datePublished: '2017-01-19T01:43:47.178Z'
-dateModified: '2017-01-19T01:43:46.519Z'
+datePublished: '2017-01-19T01:48:14.281Z'
+dateModified: '2017-01-19T01:48:13.577Z'
 publisher: {}
-author:
-  - name: ''
-    url: 'https://www.youtube.com/channel/UCM2fbnSc9kUsuKTC1qwseLg'
-    avatar: {}
+author: []
 inFeed: true
 description: Sureway Financial Partnered With Symmetry Financial Group
 via: {}
