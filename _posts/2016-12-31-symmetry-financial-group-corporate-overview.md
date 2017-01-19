@@ -13,8 +13,8 @@ keywords:
   - recruiting
   - gomez
 title: View SFG Video
-datePublished: '2017-01-19T01:50:36.808Z'
-dateModified: '2017-01-19T01:50:36.216Z'
+datePublished: '2017-01-19T01:52:50.783Z'
+dateModified: '2017-01-19T01:52:50.303Z'
 publisher: {}
 author: []
 inFeed: true
@@ -49,9 +49,5 @@ Sureway Financial partnered with Symmetry Financial Group was established with t
 
 **The Leads Department is The Cornerstone of Symmetry Financial Group:** Their purpose is to streamline the sales process by placing agents in front of buyers, thus eliminating the need for prospecting. From the very first phone call until the final sale and application, our CRM Software allows agents to manage their client database.
 [Schedule A Call][0]
-
----
-
-
 
 [0]: https://calendly.com/surewaytolive
