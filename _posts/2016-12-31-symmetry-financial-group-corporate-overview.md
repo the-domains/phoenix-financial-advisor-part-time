@@ -12,18 +12,15 @@ keywords:
   - recruiting
   - gomez
 title: View SFG Video
-datePublished: '2017-01-19T01:19:40.915Z'
-dateModified: '2017-01-19T01:19:40.385Z'
+datePublished: '2017-01-19T01:25:15.788Z'
+dateModified: '2017-01-19T01:25:14.467Z'
 publisher: {}
 author:
   - name: ''
     url: 'https://www.youtube.com/channel/UCM2fbnSc9kUsuKTC1qwseLg'
     avatar: {}
 inFeed: true
-description: >-
-  Sureway Financial partnered with Symmetry Financial Group was established with
-  the goal of bringing balance to the professional and personal lives of
-  independent insurance agents and agency builders across the country.
+description: Sureway Financial partnered with Symmetry Financial Group
 via: {}
 sourcePath: _posts/2016-12-31-symmetry-financial-group-corporate-overview.md
 hasPage: true
@@ -34,6 +31,8 @@ _type: VideoObject
 _context: 'http://schema.org'
 
 ---
+Sureway Financial partnered with Symmetry Financial Group
+
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FMV8AUTd6C8U%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DMV8AUTd6C8U&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FMV8AUTd6C8U%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
 Sureway Financial partnered with Symmetry Financial Group was established with the goal of bringing balance to the professional and personal lives of independent insurance agents and agency builders across the country.
@@ -46,9 +45,7 @@ Sureway Financial partnered with Symmetry Financial Group was established with t
 
 [Schedule A Call][0]
 
-Our professional approach - comprehensive training system - coupled with qualified leads - spur our success and instigated Symmetry Financial Group's growth from a few hundred thousand dollars in sales in 2009 to $11 million in 2015\.
-
-**Symmetry Financial Group**, Fastest growing insurance organization in USA, headquartered in Asheville, NC. Our agents are located all across America. We have over 50 years of industry experience and offer a variety of financial and insurance solutions leveraging the very best providers in the country.
+**Symmetry Financial Group**, Fastest growing insurance organization in USA, headquartered in Asheville, NC. Our agents are located all across America. We have over 50 years of industry experience and offer a variety of financial and insurance solutions leveraging the very best providers in the country. SFG has grown from a few hundred thousand dollars in sales in 2009 to $11 million in 2015\.
 
 **Work Right Out of Your Home: **We focus on earning both TIME & MONEY, the definition of true wealth. Our agents spend 2-3 days a week meeting with clients. The rest of the work is done from the comfort of your own home.
 
