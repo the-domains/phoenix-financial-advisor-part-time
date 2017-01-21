@@ -62,15 +62,16 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://youtu.be/eMC3ayM6reg?list=PLTZVUzQQJrcZz4hGp5vCnP9Ajh8p_DY6b'
 title: Symmetry Financial Corporate Overview
-datePublished: '2017-01-21T20:06:57.942Z'
-dateModified: '2017-01-21T20:06:57.476Z'
+datePublished: '2017-01-21T20:07:53.389Z'
+dateModified: '2017-01-21T20:07:52.811Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-21-symmetry-financial-corporate-overview.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-01-21T19:45:08.881Z'
+url: symmetry-financial-corporate-overview/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
@@ -79,5 +80,9 @@ _context: 'http://schema.org'
 
 **Don't just take it from us. See for Yourself! There's a reason we're the fastest growing IMO in USA. It all starts with our people.**
 [Schedule A Call][0]
+
+---
+
+
 
 [0]: https://calendly.com/surewaytolive/15min/01-21-2017?back=1
