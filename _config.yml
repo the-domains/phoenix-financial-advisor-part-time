@@ -43,12 +43,36 @@ content:
         domain: imgflo.herokuapp.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
       isBasedOnUrl: >-
         https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/55f621592769dbb9f42792c68b2e3ba0/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FMV8AUTd6C8U%2Fmaxresdefault.jpg
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/de75bd6f-1233-4a55-83e3-113e32afd94d.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/de75bd6f-1233-4a55-83e3-113e32afd94d.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
       datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
