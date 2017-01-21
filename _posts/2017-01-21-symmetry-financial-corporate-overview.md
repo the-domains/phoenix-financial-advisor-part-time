@@ -1,8 +1,5 @@
 ---
-author:
-  - name: The Pritchett Agency
-    url: 'https://www.youtube.com/user/TepTre28'
-    avatar: {}
+author: []
 related: []
 publisher: {}
 keywords:
@@ -67,13 +64,13 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/eMC3ayM6reg?list=PLTZVUzQQJrcZz4hGp5vCnP9Ajh8p_DY6b'
 title: Symmetry Financial Corporate Overview
-datePublished: '2017-01-21T19:42:41.107Z'
-dateModified: '2017-01-21T19:42:30.895Z'
+datePublished: '2017-01-21T19:45:10.023Z'
+dateModified: '2017-01-21T19:45:09.537Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-21-symmetry-financial-corporate-overview.md
 starred: false
-datePublishedOriginal: '2017-01-21T19:42:41.107Z'
+datePublishedOriginal: '2017-01-21T19:45:08.881Z'
 _type: VideoObject
 _context: 'http://schema.org'
 
