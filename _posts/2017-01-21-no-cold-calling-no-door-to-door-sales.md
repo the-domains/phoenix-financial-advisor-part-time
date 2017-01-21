@@ -4,8 +4,8 @@ description: >-
   Sureway Financial Partnered with Symmetry Financial Group was established with
   the goal of bringing balance to the professional and personal lives of
   independent insurance agents and agency builders across the country.
-dateModified: '2017-01-21T19:22:09.639Z'
-datePublished: '2017-01-21T19:22:10.180Z'
+dateModified: '2017-01-21T19:45:24.176Z'
+datePublished: '2017-01-21T19:45:24.458Z'
 title: 'NO COLD CALLING, NO DOOR TO DOOR SALES!'
 author: []
 publisher: {}
