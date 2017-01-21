@@ -14,8 +14,8 @@ keywords:
   - corporate
   - interview
 description: >-
-  A basic introduction to the Symmetry system and business plan, our
-  pre-interview.
+  Don’t just take it from us. See for Yourself! There's a reason we’re the
+  fastest growing IMO in USA. It all starts with our people.
 inLanguage: en
 app_links:
   - url: >-
@@ -64,8 +64,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/eMC3ayM6reg?list=PLTZVUzQQJrcZz4hGp5vCnP9Ajh8p_DY6b'
 title: Symmetry Financial Corporate Overview
-datePublished: '2017-01-21T19:45:24.529Z'
-dateModified: '2017-01-21T19:45:24.176Z'
+datePublished: '2017-01-21T19:52:22.398Z'
+dateModified: '2017-01-21T19:52:21.824Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-21-symmetry-financial-corporate-overview.md
@@ -77,6 +77,7 @@ _context: 'http://schema.org'
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fvideoseries%3Flist%3DPLTZVUzQQJrcZz4hGp5vCnP9Ajh8p_DY6b&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DeMC3ayM6reg&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FeMC3ayM6reg%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
-[Schedule An Interview][0]
+**Don't just take it from us. See for Yourself! There's a reason we're the fastest growing IMO in USA. It all starts with our people.**
+[Schedule A Call][0]
 
 [0]: https://calendly.com/surewaytolive/15min/01-21-2017?back=1
