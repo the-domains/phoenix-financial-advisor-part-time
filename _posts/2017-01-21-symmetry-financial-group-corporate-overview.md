@@ -16,10 +16,7 @@ keywords:
   - sfg
   - interview
   - chadwick
-description: >-
-  Sureway Financial Partnered with Symmetry Financial Group was established with
-  the goal of bringing balance to the professional and personal lives of
-  independent insurance agents and agency builders across the country.
+description: Uploaded by Symmetry Financial Group on 2015-03-20.
 inLanguage: en
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=MV8AUTd6C8U&feature=applinks'
@@ -60,8 +57,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/MV8AUTd6C8U'
 title: Symmetry Financial Group Corporate Overview
-datePublished: '2017-01-21T19:18:59.764Z'
-dateModified: '2017-01-21T19:18:59.244Z'
+datePublished: '2017-01-21T19:21:13.725Z'
+dateModified: '2017-01-21T19:21:13.288Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-21-symmetry-financial-group-corporate-overview.md
@@ -71,6 +68,4 @@ _type: VideoObject
 _context: 'http://schema.org'
 
 ---
-**Sureway Financial Partnered with Symmetry Financial Group** was established with the goal of bringing balance to the professional and personal lives of independent insurance agents and agency builders across the country.
-
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FMV8AUTd6C8U%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DMV8AUTd6C8U&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FMV8AUTd6C8U%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
