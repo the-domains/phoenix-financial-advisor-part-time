@@ -63,8 +63,8 @@ app_links:
     namespace: google
     type: ios
 title: Symmetry Financial Corporate Overview
-datePublished: '2017-01-21T20:07:53.389Z'
-dateModified: '2017-01-21T20:07:52.811Z'
+datePublished: '2017-01-21T20:09:24.759Z'
+dateModified: '2017-01-21T20:09:23.858Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-21-symmetry-financial-corporate-overview.md
@@ -80,9 +80,5 @@ _context: 'http://schema.org'
 
 **Don't just take it from us. See for Yourself! There's a reason we're the fastest growing IMO in USA. It all starts with our people.**
 [Schedule A Call][0]
-
----
-
-
 
 [0]: https://calendly.com/surewaytolive/15min/01-21-2017?back=1
