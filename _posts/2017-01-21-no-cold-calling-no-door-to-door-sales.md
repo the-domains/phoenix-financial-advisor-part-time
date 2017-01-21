@@ -1,20 +1,23 @@
 ---
 inFeed: true
 description: >-
-  Exclusive Warm Lead Program That Places You In Front of Buyers. Our clients
-  have requested our services after retaining a new mortgage.
-dateModified: '2017-01-21T19:15:43.928Z'
-datePublished: '2017-01-21T19:15:44.307Z'
+  Sureway Financial Partnered with Symmetry Financial Group was established with
+  the goal of bringing balance to the professional and personal lives of
+  independent insurance agents and agency builders across the country.
+dateModified: '2017-01-21T19:22:09.639Z'
+datePublished: '2017-01-21T19:22:10.180Z'
 title: 'NO COLD CALLING, NO DOOR TO DOOR SALES!'
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-01-21-no-cold-calling-no-door-to-door-sales.md
 starred: false
 datePublishedOriginal: '2017-01-21T19:15:44.307Z'
-sourcePath: _posts/2017-01-21-no-cold-calling-no-door-to-door-sales.md
 _type: Blurb
 
 ---
+**Sureway Financial Partnered with Symmetry Financial Group** was established with the goal of bringing balance to the professional and personal lives of independent insurance agents and agency builders across the country.
+
 ### **NO COLD CALLING, NO DOOR TO DOOR SALES!**
 
 **Exclusive Warm Lead Program That Places You In Front of Buyers. Our clients have requested our services after retaining a new mortgage.**
