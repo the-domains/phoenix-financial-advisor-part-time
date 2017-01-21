@@ -12,9 +12,9 @@ keywords:
   - corporate
   - recruiting
   - gomez
-title: Sureway Financial Partnered with Symmetry Financial Group
-datePublished: '2017-01-21T18:40:11.877Z'
-dateModified: '2017-01-21T18:40:11.321Z'
+title: Sureway Financial
+datePublished: '2017-01-21T18:41:21.299Z'
+dateModified: '2017-01-21T18:41:20.736Z'
 publisher: {}
 author: []
 inFeed: true
@@ -31,7 +31,7 @@ _type: VideoObject
 _context: 'http://schema.org'
 
 ---
-# Sureway Financial Partnered with Symmetry Financial Group
+# Sureway Financial
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FMV8AUTd6C8U%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DMV8AUTd6C8U&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FMV8AUTd6C8U%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
