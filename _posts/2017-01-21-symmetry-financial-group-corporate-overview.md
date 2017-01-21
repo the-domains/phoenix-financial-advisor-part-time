@@ -4,11 +4,7 @@ author:
     url: 'https://www.youtube.com/channel/UCM2fbnSc9kUsuKTC1qwseLg'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: youtu.be
+publisher: {}
 keywords:
   - symmetry
   - duration
@@ -64,8 +60,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/MV8AUTd6C8U'
 title: Symmetry Financial Group Corporate Overview
-datePublished: '2017-01-21T19:18:00.692Z'
-dateModified: '2017-01-21T19:18:00.374Z'
+datePublished: '2017-01-21T19:18:59.764Z'
+dateModified: '2017-01-21T19:18:59.244Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-21-symmetry-financial-group-corporate-overview.md
