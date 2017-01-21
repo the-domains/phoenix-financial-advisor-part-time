@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: Don’t just take it from us. See for Yourself!
-dateModified: '2017-01-21T20:21:37.737Z'
-datePublished: '2017-01-21T20:21:38.239Z'
+dateModified: '2017-01-21T20:22:05.010Z'
+datePublished: '2017-01-21T20:22:05.691Z'
 title: ''
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-01-21-dont-just-take-it-from-us-see-for-yourself.md
 starred: false
 datePublishedOriginal: '2017-01-21T20:21:38.239Z'
-sourcePath: _posts/2017-01-21-dont-just-take-it-from-us-see-for-yourself.md
 _type: Blurb
 
 ---
