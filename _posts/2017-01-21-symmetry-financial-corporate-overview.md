@@ -1,5 +1,8 @@
 ---
-author: []
+author:
+  - name: The Pritchett Agency
+    url: 'https://www.youtube.com/user/TepTre28'
+    avatar: {}
 related: []
 publisher: {}
 keywords:
@@ -13,7 +16,9 @@ keywords:
   - pritchett
   - corporate
   - interview
-description: Don’t just take it from us. See for Yourself!
+description: >-
+  A basic introduction to the Symmetry system and business plan, our
+  pre-interview.
 inLanguage: en
 app_links:
   - url: >-
@@ -62,23 +67,15 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/eMC3ayM6reg?list=PLTZVUzQQJrcZz4hGp5vCnP9Ajh8p_DY6b'
 title: Symmetry Financial Corporate Overview
-datePublished: '2017-01-21T20:11:00.563Z'
-dateModified: '2017-01-21T20:10:59.884Z'
+datePublished: '2017-01-21T20:13:30.497Z'
+dateModified: '2017-01-21T20:13:24.150Z'
 via: {}
 inFeed: true
-sourcePath: _posts/2017-01-21-symmetry-financial-corporate-overview.md
-hasPage: false
 starred: false
-datePublishedOriginal: '2017-01-21T19:45:08.881Z'
+datePublishedOriginal: '2017-01-21T20:13:30.497Z'
+sourcePath: _posts/2017-01-21-symmetry-financial-corporate-overview.md
 _type: VideoObject
 _context: 'http://schema.org'
 
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fvideoseries%3Flist%3DPLTZVUzQQJrcZz4hGp5vCnP9Ajh8p_DY6b&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DeMC3ayM6reg&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FeMC3ayM6reg%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
-
-**Don't just take it from us. See for Yourself!**
-[Schedule A Call][0]
-
-**There's a reason we're the fastest growing IMO in USA. It all starts with our people.**
-
-[0]: https://calendly.com/surewaytolive/15min/01-21-2017?back=1
