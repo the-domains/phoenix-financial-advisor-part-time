@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Don’t just take it from us. See for Yourself!
-dateModified: '2017-01-25T05:35:16.951Z'
-datePublished: '2017-01-25T05:35:17.330Z'
+dateModified: '2017-01-25T05:35:18.186Z'
+datePublished: '2017-01-25T05:35:18.539Z'
 title: ''
 author: []
 publisher: {}
