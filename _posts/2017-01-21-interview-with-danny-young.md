@@ -68,8 +68,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/CtC5EN_dNBI?list=PLTZVUzQQJrcaszNxOnbtnTNnYY-IWjmw3'
 title: Interview with Danny Young
-datePublished: '2017-01-21T20:06:57.946Z'
-dateModified: '2017-01-21T20:06:57.476Z'
+datePublished: '2017-01-26T03:45:01.536Z'
+dateModified: '2017-01-26T03:45:01.130Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-21-interview-with-danny-young.md
