@@ -5,8 +5,8 @@ description: >-
   Established with the goal of bringing balance to the professional and personal
   lives of independent insurance agents and insurance agency builders across the
   country.
-dateModified: '2017-01-26T03:40:27.397Z'
-datePublished: '2017-01-26T03:40:27.909Z'
+dateModified: '2017-01-26T03:40:35.933Z'
+datePublished: '2017-01-26T03:40:36.333Z'
 title: 'NO COLD CALLING, NO DOOR TO DOOR SALES!'
 author: []
 publisher: {}
