@@ -1,13 +1,11 @@
 ---
 inFeed: true
 description: >-
-  Sureway Financial Insurance is Partnered with The Symmetry Financial Group:
-  Established with the goal of bringing balance to the professional and personal
-  lives of independent insurance agents and insurance agency builders across the
-  country.
-dateModified: '2017-01-26T03:45:01.130Z'
-datePublished: '2017-01-26T03:45:01.654Z'
-title: 'NO COLD CALLING, NO DOOR TO DOOR SALES!'
+  Exclusive Warm Lead Program: That Places insurance agents In Front of Buyers.
+  Our clients have requested our services after retaining a new mortgage.
+dateModified: '2017-01-26T03:55:20.911Z'
+datePublished: '2017-01-26T03:55:21.684Z'
+title: 'Sureway Financial, Partnered with The Symmetry Financial Group '
 author: []
 publisher: {}
 via: {}
@@ -17,7 +15,9 @@ datePublishedOriginal: '2017-01-21T19:15:44.307Z'
 _type: Blurb
 
 ---
-**Sureway Financial Insurance is Partnered with The Symmetry Financial Group: **Established with the goal of bringing balance to the professional and personal lives of independent insurance agents and insurance agency builders across the country.
+### **Sureway Financial, Partnered with The Symmetry Financial Group **
+
+### Our goal is to bring balance to the professional and personal lives of independent insurance agents and insurance agency builders across the country.
 
 ### **NO COLD CALLING, NO DOOR TO DOOR SALES!**
 
