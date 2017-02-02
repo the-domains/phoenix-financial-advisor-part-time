@@ -1,8 +1,10 @@
 ---
 inFeed: true
-description: Don’t just take it from us. See for Yourself!
-dateModified: '2017-02-02T02:02:49.266Z'
-datePublished: '2017-02-02T02:02:50.047Z'
+description: >-
+  There's a reason we’re the fastest growing Insurance Marketing Groups in USA.
+  It all starts with our people.
+dateModified: '2017-02-02T02:08:41.956Z'
+datePublished: '2017-02-02T02:08:42.481Z'
 title: ''
 author: []
 publisher: {}
@@ -15,14 +17,14 @@ _type: Blurb
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6112198-efc4-485a-a7f2-ea0e8d2a7d17.jpg)
 
-**Don't just take it from us. See for Yourself!**
+**There's a reason we're the fastest growing Insurance Marketing Groups in USA. It all starts with our people.**
 [Schedule A Call][0]
 
-**There's a reason we're the fastest growing Insurance Marketing Groups in USA. It all starts with our people.**
+**Don't just take it from us. See for Yourself!**
 
 Hiring Full Time Part Time Financial Advisor, Financial Customer Service, Insurance Agents, Local Insurance Jobs, National Employer
 
-We're Hiring Full Time Part Time Financial Advisor, Financial Customer Service, Insurance Agents, Local Insurance Jobs, National Employer. APPLY NOW: Text Your Name, State, and The Word Career to 480-360-1864 or View Company Video: [http://surewayfinancial.com][1] 
+We're Hiring Full Time Part Time Financial Advisor, Financial Customer Service, Insurance Agents, Local Insurance Jobs, National Employer. APPLY NOW: Text Your Name, State, and The Word Career to 480-360-1864 or View Company Video: [http://surewayfinancial.com][1]
 
 Google Us: Sureway Financial is in Partnership with Symmetry Financial Group, currently seeks Outside Account Management Executives, Financial Executives, Financial Advisor, Customer Service Executives, and Insurance Agents who want to control their own career with NO COLD CALLING AND NO DOOR TO DOOR SALES!
 
