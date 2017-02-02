@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   There's a reason we’re the fastest growing Insurance Marketing Groups in USA.
   It all starts with our people.
-dateModified: '2017-02-02T02:08:41.956Z'
-datePublished: '2017-02-02T02:08:42.481Z'
+dateModified: '2017-02-02T02:26:06.459Z'
+datePublished: '2017-02-02T02:26:07.279Z'
 title: ''
 author: []
 publisher: {}
@@ -22,31 +22,25 @@ _type: Blurb
 
 **Don't just take it from us. See for Yourself!**
 
-Hiring Full Time Part Time Financial Advisor, Financial Customer Service, Insurance Agents, Local Insurance Jobs, National Employer
+National Employer Hiring Full Time Part Time Financial Advisor, Financial Customer Service, Insurance Agents, Local Insurance Jobs
 
-We're Hiring Full Time Part Time Financial Advisor, Financial Customer Service, Insurance Agents, Local Insurance Jobs, National Employer. APPLY NOW: Text Your Name, State, and The Word Career to 480-360-1864 or View Company Video: [http://surewayfinancial.com][1]
-
-Google Us: Sureway Financial is in Partnership with Symmetry Financial Group, currently seeks Outside Account Management Executives, Financial Executives, Financial Advisor, Customer Service Executives, and Insurance Agents who want to control their own career with NO COLD CALLING AND NO DOOR TO DOOR SALES!
+Sureway Financial is in Partnership with Symmetry Financial Group, currently seeks Outside Account Management Executives, Financial Executives, Financial Advisor, Customer Service Executives, and Insurance Agents who want to control their own career with NO COLD CALLING AND NO DOOR TO DOOR SALES!
 
 Exclusive Warm Lead Program That Places You In Front of Buyers: Our clients have requested our services after retaining a new mortgage. We only see the people that want our services!
 
-THERE IS NO COLD CALLING OR DOOR-TO-DOOR SALES!
+WE WORK A SPECIALIZED NICHE IN INSURANCE SERVICES
 
-WE WORK WITHIN A SPECIALIZED NICHE IN INSURANCE FINANCIAL SERVICES
-
-WE HAVE MORE CLIENTS THAN OUR TEAM OF AGENTS CAN SERVICE
+WE HAVE MORE CLIENTS THAN OUR AGENTS CAN SERVICE
 
 TRAINING PROVIDED AT HOME, AND IN THE FIELD
 
 FLEXIBLE SCHEDULE ALLOWS TO SET YOUR OWN HOURS
 
-OUR TOP-EARNING INSURANCE AGENTS WORKS 4-5 DAYS PER WEEK
-
 PREVIOUS INDUSTRY EXPERIENCE NOT REQUIRED
 
 WE OFFER A NO-CAP COMPENSATION PLAN WITH A REAL OPPORTUNITY FOR PEOPLE TO RETIRE FINANCIALLY FREE
 
-Work Right Out of Your Home! We focus on earning both TIME AND MONEY, the definition of true wealth. Our agents spend 2-3 days a week meeting with clients. The rest of the work is done from the comfort of your own home.
+Work Right Out of Your Home! Our agents focus on earning both TIME AND MONEY, the definition of true wealth. Our agents spend 2-3 days a week meeting with clients. The rest of the work is done from the comfort of your own home.
 
 World Class Incentive Trips and Bonuses: Our agents participate in trips most people only dream about. Barcelona, Maui, Cancun, Naples, and Alaska are just some of the destinations our agents will travel to in 2017, all provided by our carriers!
 
@@ -56,7 +50,4 @@ Our professional approach - comprehensive training system - coupled with qualifi
 
 The Leads Department is The Cornerstone of Symmetry Financial Group: Their purpose is to streamline the sales process by placing agents in front of buyers, thus eliminating the need for prospecting. From the very first phone call until the final sale and application, our CRM Software allows agents to manage their client database.
 
-We're Hiring Full Time Part Time Financial Advisor, Financial Customer Service, Insurance Agents, Local Insurance Jobs, National Employer. APPLY NOW: Text Your Name, State, and The Word Career to 480-360-1864 or View Company Video: [http://surewayfinancial.com][1]
-
 [0]: https://calendly.com/surewaytolive/15min/01-21-2017?back=1
-[1]: http://surewayfinancial.com/
