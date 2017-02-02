@@ -1,6 +1,5 @@
-typography_spectrum: 0.5130936359722942
-content_rating:
-  adult: false
+layout_spectrum: 0.039371976909863916
+typography_spectrum: 0.5818762157916432
 color:
   brandColors:
     - '#85DB18'
@@ -8,15 +7,16 @@ color:
     - '#F5F6D4'
     - '#A7C520'
     - '#493F0B'
-  brandStrength: 0.7008417538016812
-  lightness: 0.863211317706097
-  saturation: 0.09436048940202166
-  rhythmicContrast: 0.3912586180715462
+  brandStrength: 0.5235167839977485
+  lightness: 0.30340993295303814
+  saturation: 0.47382874973145966
+  rhythmicContrast: 0.34150896572175965
+content_rating:
+  adult: false
 github: true
 opengraph:
   type: ''
   appId: ''
-layout_spectrum: 0.3072374792451426
 author:
   name: Barry Scheurweghs
   url: 'http://surewayfinancial.com'
