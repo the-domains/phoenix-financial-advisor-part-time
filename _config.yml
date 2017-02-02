@@ -22,7 +22,7 @@ author:
   url: 'http://surewayfinancial.com'
   email: Barry@SurewayFinancial.com
 logo: null
-name: Sureway Financial
+name: Sureway Financial Insurance
 favicon: null
 title: Sureway Financial Insurance
 content:
@@ -74,7 +74,9 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: Hiring & Training FT/PT Insurance Agents
+description: >-
+  There's a reason we’re the fastest growing Insurance Marketing Groups in USA.
+  It all starts with our Insurance Agents
 purpose:
   - type: external
     url: 'https://calendly.com/surewaytolive/15min/01-21-2017?back=1'
