@@ -1,5 +1,6 @@
-layout_spectrum: 0.039371976909863916
 typography_spectrum: 0.5818762157916432
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#85DB18'
@@ -11,18 +12,23 @@ color:
   lightness: 0.30340993295303814
   saturation: 0.47382874973145966
   rhythmicContrast: 0.34150896572175965
-content_rating:
-  adult: false
 github: true
 opengraph:
   type: ''
   appId: ''
+layout_spectrum: 0.039371976909863916
+analytics:
+  google: UA-76409043-2
 author:
   name: Barry Scheurweghs
   url: 'http://surewayfinancial.com'
   email: Barry@SurewayFinancial.com
 logo: null
 name: Sureway Financial Insurance
+navigation:
+  - name: Insurance Agents Training
+    id: 8571e4dc-b54e-469f-94de-8202d362765a
+    type: content
 favicon: null
 title: Sureway Financial Insurance
 content:
@@ -34,19 +40,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/45aea30a-05ac-40ee-bd64-93833735bf16.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -58,19 +64,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb60602c-9945-42c2-bdc3-57be220a4d1e.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -81,5 +87,3 @@ purpose:
   - type: external
     url: 'https://calendly.com/surewaytolive/15min/01-21-2017?back=1'
     label: Schedule A Call
-analytics:
-  google: UA-76409043-2
