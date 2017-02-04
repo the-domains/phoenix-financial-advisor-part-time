@@ -25,6 +25,10 @@ author:
   email: Barry@SurewayFinancial.com
 logo: null
 name: Sureway Financial Insurance
+navigation:
+  - name: Symmetry Agent Training
+    url: 'https://thegrid.ai/insurance-agent-training'
+    type: external
 favicon: null
 title: Sureway Financial Insurance
 content:
