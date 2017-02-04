@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   There's a reason we’re the fastest growing Insurance Marketing Groups in USA.
   It all starts with our people.
-dateModified: '2017-02-04T19:24:06.772Z'
-datePublished: '2017-02-04T19:24:07.313Z'
+dateModified: '2017-02-04T19:29:23.337Z'
+datePublished: '2017-02-04T19:29:23.720Z'
 title: ''
 author: []
 publisher: {}
@@ -18,6 +18,7 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6112198-efc4-485a-a7f2-ea0e8d2a7d17.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d0bcfc6-2bba-4a0b-addb-540ebf40e591.jpg)
 
 **There's a reason we're the fastest growing Insurance Marketing Groups in USA. It all starts with our people.**
 [Schedule A Call][0]
