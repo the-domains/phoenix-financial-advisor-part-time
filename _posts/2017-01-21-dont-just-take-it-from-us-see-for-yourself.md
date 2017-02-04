@@ -3,16 +3,16 @@ inFeed: true
 description: >-
   There's a reason we’re the fastest growing Insurance Marketing Groups in USA.
   It all starts with our people.
-dateModified: '2017-02-04T19:29:23.337Z'
-datePublished: '2017-02-04T19:29:23.720Z'
+dateModified: '2017-02-04T19:33:45.802Z'
+datePublished: '2017-02-04T19:33:45.987Z'
 title: ''
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-01-21-dont-just-take-it-from-us-see-for-yourself.md
 hasPage: true
+datePublishedOriginal: '2017-02-04T19:33:45.987Z'
 starred: false
-datePublishedOriginal: '2017-01-21T20:21:38.239Z'
 url: theres-a-reason-were-the-fastest-growing-insurance-marketi/index.html
 _type: Article
 
