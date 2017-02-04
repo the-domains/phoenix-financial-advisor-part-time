@@ -87,3 +87,6 @@ purpose:
   - type: external
     url: 'https://calendly.com/surewaytolive/15min/01-21-2017?back=1'
     label: Schedule A Call
+  - type: contact
+    url: 'tel:4803601864'
+    label: Text A Question
