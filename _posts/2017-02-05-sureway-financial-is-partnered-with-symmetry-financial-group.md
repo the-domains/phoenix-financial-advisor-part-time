@@ -3,16 +3,16 @@ inFeed: true
 description: >-
   Exclusive Warm Lead Program: That Places insurance agents In Front of Buyers.
   Our clients have requested our services after retaining a new mortgage.
-dateModified: '2017-02-05T18:37:50.449Z'
-datePublished: '2017-02-05T18:37:50.810Z'
+dateModified: '2017-02-05T18:38:03.689Z'
+datePublished: '2017-02-05T18:38:04.082Z'
 title: Sureway Financial Is Partnered with Symmetry Financial Group
 author: []
 publisher: {}
 via: {}
-starred: false
-datePublishedOriginal: '2017-02-05T18:37:50.810Z'
 sourcePath: >-
   _posts/2017-02-05-sureway-financial-is-partnered-with-symmetry-financial-group.md
+starred: false
+datePublishedOriginal: '2017-02-05T18:37:50.810Z'
 _type: Blurb
 
 ---
