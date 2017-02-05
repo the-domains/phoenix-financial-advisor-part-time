@@ -67,8 +67,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/CtC5EN_dNBI?list=PLTZVUzQQJrcaszNxOnbtnTNnYY-IWjmw3'
 title: 'Sureway Financial, Partnered with The Symmetry Financial Group'
-datePublished: '2017-02-05T18:24:57.395Z'
-dateModified: '2017-02-05T18:24:57.039Z'
+datePublished: '2017-02-05T18:26:54.103Z'
+dateModified: '2017-02-05T18:26:53.554Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-21-interview-with-danny-young.md
@@ -97,3 +97,7 @@ _context: 'http://schema.org'
 **World Class Incentive Trips & Bonuses:** Our agents participate in trips most people dream about. Barcelona, Maui, Cancun, Naples, and Alaska are just some of the destinations our agents will travel to in 2017, all provided by our carriers!
 
 **Leads Department is Cornerstone of SFG:** Their purpose is to streamline the sales process by placing agents in front of buyers, thus eliminating the need for prospecting. From the very first phone call until the final sale and application, our CRM Software allows agents to manage their client database.
+
+[2016 INC. 5000 Ranking \#1360 Symmetry Financial Group][0]
+
+[0]: http://www.inc.com/profile/symmetry-financial-group?cid=search
