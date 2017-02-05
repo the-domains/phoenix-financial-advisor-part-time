@@ -67,8 +67,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/CtC5EN_dNBI?list=PLTZVUzQQJrcaszNxOnbtnTNnYY-IWjmw3'
 title: 'Sureway Financial, Partnered with The Symmetry Financial Group'
-datePublished: '2017-02-05T18:26:54.103Z'
-dateModified: '2017-02-05T18:26:53.554Z'
+datePublished: '2017-02-05T18:28:02.170Z'
+dateModified: '2017-02-05T18:28:01.652Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-21-interview-with-danny-young.md
@@ -88,7 +88,7 @@ _context: 'http://schema.org'
 
 **Exclusive Warm Lead Program: **That Places insurance agents In Front of Buyers. Our clients have requested our services after retaining a new mortgage.
 
-**Are you looking for the ability to make a great living while helping people, this could be the opportunity for you!**
+**Are you looking for the ability to make a great living while helping people? This could be the opportunity for you!**
 
 **Work Right Out of Your Home: **We focus on earning both TIME & MONEY, the definition of true wealth. Our insurance agents spend 2-3 days a week meeting with clients. The rest of the work is done from the comfort of their own home.
 
