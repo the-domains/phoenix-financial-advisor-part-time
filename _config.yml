@@ -29,6 +29,9 @@ navigation:
   - name: Agent Marketing School
     url: 'https://thegrid.ai/agent-marketing-school/'
     type: external
+  - name: Schedule A Call Now
+    url: 'https://calendly.com/surewaytolive'
+    type: external
 favicon: null
 title: Sureway Financial Insurance
 content:
