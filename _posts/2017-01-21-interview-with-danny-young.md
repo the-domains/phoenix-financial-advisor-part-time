@@ -17,9 +17,8 @@ keywords:
   - corporate
   - recruiting
 description: >-
-  Listen as Regional Agency Director Danny Young talks about his experience in
-  the insurance industry, the opportunity at Symmetry Financial Group, the
-  helping culture, the benefits of attending our conferences, and life at SFG.
+  Exclusive Warm Lead Program: That Places insurance agents In Front of Buyers.
+  Our clients have requested our services after retaining a new mortgage.
 inLanguage: en
 app_links:
   - url: >-
@@ -67,9 +66,9 @@ app_links:
     namespace: google
     type: ios
 isBasedOnUrl: 'https://youtu.be/CtC5EN_dNBI?list=PLTZVUzQQJrcaszNxOnbtnTNnYY-IWjmw3'
-title: Interview with Danny Young
-datePublished: '2017-01-26T03:45:01.536Z'
-dateModified: '2017-01-26T03:45:01.130Z'
+title: 'Sureway Financial, Partnered with The Symmetry Financial Group'
+datePublished: '2017-02-05T18:24:18.204Z'
+dateModified: '2017-02-05T18:24:17.665Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-21-interview-with-danny-young.md
@@ -80,3 +79,19 @@ _context: 'http://schema.org'
 
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fvideoseries%3Flist%3DPLTZVUzQQJrcaszNxOnbtnTNnYY-IWjmw3&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCtC5EN_dNBI&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FCtC5EN_dNBI%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+
+### **Sureway Financial, Partnered with The Symmetry Financial Group**
+
+### Our goal is to bring balance to the professional and personal lives of independent insurance agents and insurance agency builders across the country.
+
+### **NO COLD CALLING, NO DOOR TO DOOR SALES!**
+
+**Exclusive Warm Lead Program: **That Places insurance agents In Front of Buyers. Our clients have requested our services after retaining a new mortgage.
+
+**Are you looking for the ability to make a great living while helping people, this could be the opportunity for you!**
+
+**Work Right Out of Your Home: **We focus on earning both TIME & MONEY, the definition of true wealth. Our insurance agents spend 2-3 days a week meeting with clients. The rest of the work is done from the comfort of their own home.
+
+**Symmetry Financial Group:** Fastest growing insurance organization in USA, headquartered in Asheville, NC. Our agents are located all across America. SFG has grown from a few hundred thousand dollars in sales in 2009 to $11 million in 2015\.
+
+**World Class Incentive Trips & Bonuses:** Our agents participate in trips most people dream about. Barcelona, Maui, Cancun, Naples, and Alaska are just some of the destinations our agents will travel to in 2017, all provided by our carriers!
