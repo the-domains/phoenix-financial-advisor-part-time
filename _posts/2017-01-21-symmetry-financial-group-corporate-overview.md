@@ -1,8 +1,5 @@
 ---
-author:
-  - name: Symmetry Financial Group
-    url: 'https://www.youtube.com/channel/UCM2fbnSc9kUsuKTC1qwseLg'
-    avatar: {}
+author: []
 related: []
 publisher: {}
 keywords:
@@ -57,8 +54,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/MV8AUTd6C8U'
 title: Symmetry Financial Group Corporate Overview
-datePublished: '2017-02-05T18:38:04.067Z'
-dateModified: '2017-02-05T18:38:03.689Z'
+datePublished: '2017-02-05T20:42:25.249Z'
+dateModified: '2017-02-05T20:42:24.662Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-21-symmetry-financial-group-corporate-overview.md
