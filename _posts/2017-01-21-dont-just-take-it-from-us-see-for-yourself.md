@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   There's a reason we’re the fastest growing Insurance Marketing Groups in USA.
   It all starts with our people.
-dateModified: '2017-02-04T19:41:04.653Z'
-datePublished: '2017-02-04T19:41:05.082Z'
+dateModified: '2017-02-05T00:39:51.112Z'
+datePublished: '2017-02-05T00:39:52.015Z'
 title: ''
 author: []
 publisher: {}
@@ -22,5 +22,7 @@ _type: Blurb
 [Schedule A Call][0]
 
 **Don't just take it from us. See for Yourself!**
+[View How To Begin & Agency Training][1]
 
 [0]: https://calendly.com/surewaytolive/15min/01-21-2017?back=1
+[1]: https://thegrid.ai/insurance-agent-training/
