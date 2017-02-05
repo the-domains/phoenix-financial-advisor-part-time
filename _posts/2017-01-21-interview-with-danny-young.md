@@ -64,8 +64,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/CtC5EN_dNBI?list=PLTZVUzQQJrcaszNxOnbtnTNnYY-IWjmw3'
 title: Sureway Financial Is Partnered with Symmetry Financial Group
-datePublished: '2017-02-05T18:33:08.308Z'
-dateModified: '2017-02-05T18:33:07.906Z'
+datePublished: '2017-02-05T18:35:42.685Z'
+dateModified: '2017-02-05T18:35:42.160Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-21-interview-with-danny-young.md
@@ -77,7 +77,7 @@ _context: 'http://schema.org'
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fvideoseries%3Flist%3DPLTZVUzQQJrcaszNxOnbtnTNnYY-IWjmw3&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCtC5EN_dNBI&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FCtC5EN_dNBI%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
-### **Sureway Financial Is Partnered with Symmetry Financial Group**
+## **Sureway Financial Is Partnered with Symmetry Financial Group**
 
 ### Our goal is to bring balance to the professional and personal lives of independent insurance agents and insurance agency builders across the country.
 
