@@ -61,13 +61,13 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/rtmdG0w2MBk'
 title: Meet Symmetry Financial Group
-datePublished: '2017-02-08T22:52:28.072Z'
-dateModified: '2017-02-08T22:50:51.065Z'
-datePublishedOriginal: '2017-02-08T22:52:28.072Z'
+datePublished: '2017-02-08T22:52:40.776Z'
+dateModified: '2017-02-08T22:52:40.362Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-02-08-meet-symmetry-financial-group.md
+starred: false
+datePublishedOriginal: '2017-02-08T22:52:28.072Z'
 _type: VideoObject
 _context: 'http://schema.org'
 
