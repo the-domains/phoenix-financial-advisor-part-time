@@ -20,7 +20,7 @@ keywords:
   - corporate
   - carlos
   - recruiting
-description: 'Meet Symmetry Financial Group http://www.sfglife.com'
+description: 20 Minute Full Company Overview
 inLanguage: en
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=rtmdG0w2MBk&feature=applinks'
@@ -61,8 +61,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/rtmdG0w2MBk'
 title: Meet Symmetry Financial Group
-datePublished: '2017-02-08T23:08:43.901Z'
-dateModified: '2017-02-08T23:08:43.039Z'
+datePublished: '2017-02-08T23:11:36.594Z'
+dateModified: '2017-02-08T23:11:35.938Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-02-08-meet-symmetry-financial-group.md
@@ -72,4 +72,6 @@ _type: VideoObject
 _context: 'http://schema.org'
 
 ---
+20 Minute Full Company Overview
+
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FrtmdG0w2MBk%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DrtmdG0w2MBk&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FrtmdG0w2MBk%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
