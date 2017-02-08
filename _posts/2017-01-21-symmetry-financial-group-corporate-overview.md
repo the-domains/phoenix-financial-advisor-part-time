@@ -54,8 +54,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/MV8AUTd6C8U'
 title: Symmetry Financial Group Corporate Overview
-datePublished: '2017-02-05T20:42:25.249Z'
-dateModified: '2017-02-05T20:42:24.662Z'
+datePublished: '2017-02-08T00:22:23.005Z'
+dateModified: '2017-02-08T00:22:22.279Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-21-symmetry-financial-group-corporate-overview.md
