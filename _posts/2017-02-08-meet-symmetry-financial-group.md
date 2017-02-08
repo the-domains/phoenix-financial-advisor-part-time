@@ -13,65 +13,67 @@ keywords:
   - symmetry
   - duration
   - views
+  - overview
+  - pritchett
   - financial
   - group
-  - overview
   - sfg
   - corporate
-  - carlos
-  - recruiting
-description: 20 Minute Full Company Overview
+  - wilson
+description: >-
+  An introduction to the experience that is Symmetry Financial Group!
+  http://www.sfglife.com
 inLanguage: en
 app_links:
-  - url: 'vnd.youtube://www.youtube.com/watch?v=rtmdG0w2MBk&feature=applinks'
+  - url: 'vnd.youtube://www.youtube.com/watch?v=KCop0Y74-TU&feature=applinks'
     type: ios
     namespace: ai
     app_store_id: '544007664'
     app_name: YouTube
-  - url: 'vnd.youtube://www.youtube.com/watch?v=rtmdG0w2MBk&feature=applinks'
+  - url: 'vnd.youtube://www.youtube.com/watch?v=KCop0Y74-TU&feature=applinks'
     type: android
     namespace: ai
     app_name: YouTube
     package: com.google.android.youtube
-  - url: 'https://www.youtube.com/watch?v=rtmdG0w2MBk&feature=applinks'
+  - url: 'https://www.youtube.com/watch?v=KCop0Y74-TU&feature=applinks'
     type: web
     namespace: ai
-  - url: 'vnd.youtube://www.youtube.com/watch?v=rtmdG0w2MBk&feature=applinks'
+  - url: 'vnd.youtube://www.youtube.com/watch?v=KCop0Y74-TU&feature=applinks'
     namespace: twitter
     type: ipad
     name: YouTube
     id: '544007664'
-  - url: 'vnd.youtube://www.youtube.com/watch?v=rtmdG0w2MBk&feature=applinks'
+  - url: 'vnd.youtube://www.youtube.com/watch?v=KCop0Y74-TU&feature=applinks'
     namespace: twitter
     type: iphone
     name: YouTube
     id: '544007664'
-  - url: 'https://www.youtube.com/watch?v=rtmdG0w2MBk'
+  - url: 'https://www.youtube.com/watch?v=KCop0Y74-TU'
     namespace: twitter
     type: googleplay
     name: YouTube
     id: com.google.android.youtube
-  - path: http/www.youtube.com/watch?v=rtmdG0w2MBk
+  - path: http/www.youtube.com/watch?v=KCop0Y74-TU
     package: com.google.android.youtube
     namespace: google
     type: android
-  - path: vnd.youtube/www.youtube.com/watch?v=rtmdG0w2MBk
+  - path: vnd.youtube/www.youtube.com/watch?v=KCop0Y74-TU
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://youtu.be/rtmdG0w2MBk'
-title: Meet Symmetry Financial Group
-datePublished: '2017-02-08T23:11:37.525Z'
-dateModified: '2017-02-08T23:11:36.989Z'
+isBasedOnUrl: 'https://youtu.be/KCop0Y74-TU'
+title: 3 Minute Introduction To Symmetry Financial Group
+datePublished: '2017-02-08T23:13:04.570Z'
+dateModified: '2017-02-08T23:13:04.196Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-02-08-meet-symmetry-financial-group.md
 starred: false
-datePublishedOriginal: '2017-02-08T22:52:28.072Z'
+datePublishedOriginal: '2017-02-08T22:43:10.026Z'
 _type: VideoObject
 _context: 'http://schema.org'
 
 ---
-20 Minute Full Company Overview
+## 3 Minute Introduction To Symmetry Financial Group
 
-<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FrtmdG0w2MBk%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DrtmdG0w2MBk&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FrtmdG0w2MBk%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FKCop0Y74-TU%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DKCop0Y74-TU&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FKCop0Y74-TU%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
