@@ -61,13 +61,13 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/CEXr0hyjAFo'
 title: Pritchett Symmetry Financial Corporate Overview
-datePublished: '2017-02-08T00:21:22.326Z'
-dateModified: '2017-02-08T00:21:22.109Z'
+datePublished: '2017-02-08T00:22:22.928Z'
+dateModified: '2017-02-08T00:22:22.279Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-02-07-pritchett-symmetry-financial-corporate-overview.md
-datePublishedOriginal: '2017-02-08T00:21:22.326Z'
 starred: false
+datePublishedOriginal: '2017-02-08T00:21:22.326Z'
 _type: VideoObject
 _context: 'http://schema.org'
 
