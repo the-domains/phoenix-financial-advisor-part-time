@@ -4,9 +4,9 @@
         <description><![CDATA[Sureway Financial Insurance]]></description>
         <link>http://surewayfinancial.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 08 Feb 2017 00:25:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Feb 2017 00:25:53 GMT</lastBuildDate>
         <atom:link href="http://surewayfinancial.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 08 Feb 2017 00:25:02 GMT</pubDate>
+        <pubDate>Wed, 08 Feb 2017 00:25:03 GMT</pubDate>
         <item>
             <title><![CDATA[Interview with Danny Young]]></title>
             <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fvideoseries%3Flist%3DPLTZVUzQQJrcaszNxOnbtnTNnYY-IWjmw3&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCtC5EN_dNBI&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FCtC5EN_dNBI%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
@@ -15,18 +15,18 @@
             <pubDate>Sat, 21 Jan 2017 20:06:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Symmetry Financial Group Corporate Overview]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FMV8AUTd6C8U%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DMV8AUTd6C8U&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FMV8AUTd6C8U%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
-            <link>https://youtu.be/MV8AUTd6C8U</link>
-            <guid isPermaLink="false">8de1a894-5cb1-4f92-9c60-8160dd0e831c</guid>
-            <pubDate>Sat, 21 Jan 2017 19:11:43 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Pritchett Symmetry Financial Corporate Overview]]></title>
             <description><![CDATA[<p>20 Minute Business Overview</p>,<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FCEXr0hyjAFo%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCEXr0hyjAFo&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FCEXr0hyjAFo%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
             <link>https://youtu.be/CEXr0hyjAFo</link>
             <guid isPermaLink="false">42135b24-0825-4779-8a0c-2b50b9f33ebd</guid>
             <pubDate>Wed, 08 Feb 2017 00:21:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Symmetry Financial Group Corporate Overview]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FMV8AUTd6C8U%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DMV8AUTd6C8U&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FMV8AUTd6C8U%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://youtu.be/MV8AUTd6C8U</link>
+            <guid isPermaLink="false">8de1a894-5cb1-4f92-9c60-8160dd0e831c</guid>
+            <pubDate>Sat, 21 Jan 2017 19:11:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
