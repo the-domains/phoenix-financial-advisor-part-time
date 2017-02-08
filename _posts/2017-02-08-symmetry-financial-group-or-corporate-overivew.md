@@ -16,13 +16,13 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://youtu.be/ukaehQ9eBAE'
 title: Symmetry Financial Group | Corporate Overivew
-datePublished: '2017-02-08T23:19:42.827Z'
-dateModified: '2017-02-08T23:17:31.731Z'
-datePublishedOriginal: '2017-02-08T23:19:42.827Z'
+datePublished: '2017-02-08T23:20:02.008Z'
+dateModified: '2017-02-08T23:20:01.716Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-02-08-symmetry-financial-group-or-corporate-overivew.md
+starred: false
+datePublishedOriginal: '2017-02-08T23:19:42.827Z'
 _type: VideoObject
 _context: 'http://schema.org'
 
