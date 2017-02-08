@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Sureway Financial Is Partnered with Symmetry Financial Group
-dateModified: '2017-02-08T22:17:05.983Z'
-datePublished: '2017-02-08T22:17:06.337Z'
+dateModified: '2017-02-08T23:06:00.693Z'
+datePublished: '2017-02-08T23:06:01.730Z'
 title: >-
   Our goal is to bring balance to the professional and personal lives of
   independent insurance agents and insurance agency builders across the country.
