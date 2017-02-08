@@ -63,8 +63,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/ekdrOPKLh18'
 title: 'Jason Marino, Agency Manager with SFG Corporate Overview'
-datePublished: '2017-02-08T22:51:03.977Z'
-dateModified: '2017-02-08T22:51:03.514Z'
+datePublished: '2017-02-08T22:52:40.895Z'
+dateModified: '2017-02-08T22:52:40.362Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-02-08-jason-marino-agency-manager-with-sfg-corporate-overview.md
