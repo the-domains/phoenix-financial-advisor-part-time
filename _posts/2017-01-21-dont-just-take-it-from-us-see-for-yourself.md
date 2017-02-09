@@ -1,11 +1,8 @@
 ---
 inFeed: true
-description: >-
-  There's a reason we’re the fastest growing Insurance Marketing Groups in USA.
-  It All Starts With Our Warm Market Leads System. Don’t just take it from us.
-  See for Yourself!
-dateModified: '2017-02-08T23:44:40.440Z'
-datePublished: '2017-02-08T23:44:41.043Z'
+description: Sureway Financial Is Partnered with Symmetry Financial Group
+dateModified: '2017-02-09T00:02:28.678Z'
+datePublished: '2017-02-09T00:02:29.185Z'
 title: >-
   Our goal is to bring balance to the professional and personal lives of
   independent insurance agents and insurance agency builders across the country.
@@ -19,11 +16,8 @@ datePublishedOriginal: '2017-01-21T20:21:38.239Z'
 _type: Blurb
 
 ---
-**There's a reason we're the fastest growing Insurance Marketing Groups in USA. It All Starts With Our Warm Market Leads System. Don't just take it from us. See for Yourself!**
-[Schedule A Call][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/097d6761-fbc3-4e94-be00-74acb52ff4d7.jpg)
-
 **Sureway Financial Is Partnered with Symmetry Financial Group**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/097d6761-fbc3-4e94-be00-74acb52ff4d7.jpg)
 
 ### Our goal is to bring balance to the professional and personal lives of independent insurance agents and insurance agency builders across the country.
 
@@ -41,7 +35,7 @@ _type: Blurb
 
 **Leads Department is Cornerstone of SFG:** Their purpose is to streamline the sales process by placing agents in front of buyers, thus eliminating the need for prospecting. From the very first phone call until the final sale and application, our CRM Software allows agents to manage their client database.
 
-[2016 INC. 5000 Ranking \#1360 Symmetry Financial Group][1]
+[2016 INC. 5000 Ranking \#1360 Symmetry Financial Group][0]
 
 **Mission: **Symmetry Financial Group was established with the goal of helping to bring balance to the professional and personal lives of independent insurance agents and agency builders across the country.
 
@@ -49,8 +43,7 @@ _type: Blurb
 
 **Description: **At Symmetry Financial Group our core focus is protecting American families in case of a financial hardship. Using only the industries top A rated carriers, our agents provide families with coverage in case of a death, disability or critical illness. When an unfortunate event happens to one of our covered families, insurance companies step in and ease the financial burden.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6112198-efc4-485a-a7f2-ea0e8d2a7d17.jpg)
-[Insurance Marketing School][2]
+[Insurance Marketing School][1]
 
-[0]: https://calendly.com/surewaytolive/15min/01-21-2017?back=1
-[1]: http://www.inc.com/profile/symmetry-financial-group?cid=search
-[2]: https://thegrid.ai/sureway-financial-insurance-school/
+[0]: http://www.inc.com/profile/symmetry-financial-group?cid=search
+[1]: https://thegrid.ai/sureway-financial-insurance-school/
