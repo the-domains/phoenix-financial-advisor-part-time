@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Sureway Financial Is Partnered with Symmetry Financial Group
-dateModified: '2017-02-09T00:32:22.748Z'
-datePublished: '2017-02-09T00:32:23.230Z'
+dateModified: '2017-02-09T00:33:10.200Z'
+datePublished: '2017-02-09T00:33:10.599Z'
 title: >-
   Our goal is to bring balance to the professional and personal lives of
   independent insurance agents and insurance agency builders across the country.
@@ -44,6 +44,14 @@ _type: Blurb
 **Description: **At Symmetry Financial Group our core focus is protecting American families in case of a financial hardship. Using only the industries top A rated carriers, our agents provide families with coverage in case of a death, disability or critical illness. When an unfortunate event happens to one of our covered families, insurance companies step in and ease the financial burden.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6112198-efc4-485a-a7f2-ea0e8d2a7d17.jpg)
 [Insurance Marketing School][1]
+
+    <!-- Calendly badge widget begin -->
+    <link href="https://calendly.com/assets/external/widget.css" rel="stylesheet">
+    <script src="https://calendly.com/assets/external/widget.js" type="text/javascript"></script>
+    <script type="text/javascript">Calendly.initBadgeWidget({url: 'https://calendly.com/surewaytolive', text: 'Schedule A Call', color: '#00a2ff', branding: true});</script>
+    <!-- Calendly badge widget end -->
+
+
 
 [0]: http://www.inc.com/profile/symmetry-financial-group?cid=search
 [1]: https://thegrid.ai/sureway-financial-insurance-school/
