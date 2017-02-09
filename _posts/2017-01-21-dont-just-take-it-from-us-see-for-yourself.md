@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Sureway Financial Is Partnered with Symmetry Financial Group
-dateModified: '2017-02-09T00:45:07.906Z'
-datePublished: '2017-02-09T00:45:08.588Z'
+dateModified: '2017-02-09T00:46:11.467Z'
+datePublished: '2017-02-09T00:46:11.960Z'
 title: >-
   Our goal is to bring balance to the professional and personal lives of
   independent insurance agents and insurance agency builders across the country.
@@ -44,10 +44,6 @@ _type: Blurb
 **Description: **At Symmetry Financial Group our core focus is protecting American families in case of a financial hardship. Using only the industries top A rated carriers, our agents provide families with coverage in case of a death, disability or critical illness. When an unfortunate event happens to one of our covered families, insurance companies step in and ease the financial burden.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6112198-efc4-485a-a7f2-ea0e8d2a7d17.jpg)
 [Insurance Marketing School][1]
-
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyVkLFuwzAMRPd-Basl7WBrb2wDRX-gQIbMrMxESlhJEOm4_vsqcbq1QzfiCL7jXffYNPCGTHHkBTjEM8xhPJLCBx1DhKYZHrqb7AsdeuNVs7xY6-4nrUufFkVIxdKXUonIdiW0TsRAIe6N6MIknkhNxYkrIStIcf_jnSpOl0y90bqyJ7zgijJDZ9ep0vH-qYEUHQd37s1PvlZ8mt9TnvL-Rnza_GovU6EZF00cLrR53hbSqUQ4IAttzbBznsaJCV6vxXFnsbr-WWNVriV-A8NUfpk" height="244" style=""></iframe>
-
-
 
 [0]: http://www.inc.com/profile/symmetry-financial-group?cid=search
 [1]: https://thegrid.ai/sureway-financial-insurance-school/
