@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Sureway Financial Is Partnered with Symmetry Financial Group
-dateModified: '2017-02-09T00:34:57.803Z'
-datePublished: '2017-02-09T00:34:58.342Z'
+dateModified: '2017-02-09T00:36:38.099Z'
+datePublished: '2017-02-09T00:36:38.954Z'
 title: >-
   Our goal is to bring balance to the professional and personal lives of
   independent insurance agents and insurance agency builders across the country.
@@ -45,11 +45,7 @@ _type: Blurb
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6112198-efc4-485a-a7f2-ea0e8d2a7d17.jpg)
 [Insurance Marketing School][1]
 
-    <!-- Calendly badge widget begin -->
-    <link href="https://calendly.com/assets/external/widget.css" rel="stylesheet">
-    <script src="https://calendly.com/assets/external/widget.js" type="text/javascript"></script>
-    <script type="text/javascript">Calendly.initBadgeWidget({url: 'https://calendly.com/surewaytolive', text: 'Schedule A Call', color: '#00a2ff', branding: true});</script>
-    <!-- Calendly badge widget end -->
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyVkMFOhEAMhu8-RR0Pq4kwG48Im6iP4MHzMBSYtQ6kLbsS47s7iEYP7sFL0_Rvv_z9y_MsgwdHGBuaoXZNh3AMqSrU2IUIWbY7KynEZ-gZ28r0qqMU1vqvm9wPL9aJoIrFV0WOjuxKyL2IAUaqjOhMKD2imoQTz2FUEPb_4-0TTucRK6NJsnt3cCvK7Eq7dj_0E4vfv-YhBr1f_n36hF--TUwFbP70IxPj0c06UDjg5hoWatp99D02EyHcLRFSEvxAAyflYrt1N22bJjW72ITYFaA84fvV7S-np7NPoyX5DwVKkPk" height="244" style=""></iframe>
 
 
 
