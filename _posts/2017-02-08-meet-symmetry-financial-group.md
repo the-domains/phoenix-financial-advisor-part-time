@@ -63,8 +63,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/KCop0Y74-TU'
 title: 3 Minute Introduction To Symmetry Financial Group
-datePublished: '2017-02-09T00:15:05.475Z'
-dateModified: '2017-02-09T00:15:04.714Z'
+datePublished: '2017-02-09T00:15:26.684Z'
+dateModified: '2017-02-09T00:15:26.226Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-02-08-meet-symmetry-financial-group.md
@@ -80,5 +80,7 @@ _context: 'http://schema.org'
 
 **There's a reason we're the fastest growing Insurance Marketing Groups in USA. It All Starts With Our Warm Market Leads System.**
 [Schedule A Call][0]
+
+**Don't just take it from us. **_**See for Yourself!**_
 
 [0]: https://calendly.com/surewaytolive/15min/02-08-2017?back=1
