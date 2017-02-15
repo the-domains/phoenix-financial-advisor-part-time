@@ -16,8 +16,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://youtu.be/ukaehQ9eBAE'
 title: 12 Minute Company Overview
-datePublished: '2017-02-15T23:12:02.579Z'
-dateModified: '2017-02-15T23:12:02.002Z'
+datePublished: '2017-02-15T23:15:46.729Z'
+dateModified: '2017-02-15T23:15:46.430Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-02-08-symmetry-financial-group-or-corporate-overivew.md
