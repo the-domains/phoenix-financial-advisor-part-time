@@ -4,8 +4,8 @@ description: >-
   Our agents benefit by using the Exclusive Warm Lead Program That Places Agents
   In Front of Buyers: Our clients have requested our services after retaining a
   new mortgage. We only see the people that want our services!
-dateModified: '2017-02-15T23:23:27.915Z'
-datePublished: '2017-02-15T23:23:28.323Z'
+dateModified: '2017-02-15T23:26:07.274Z'
+datePublished: '2017-02-15T23:26:07.904Z'
 title: MORTGAGE PROTECTION INSURANCE
 author: []
 publisher: {}
@@ -16,7 +16,7 @@ datePublishedOriginal: '2017-02-15T23:11:38.513Z'
 _type: Blurb
 
 ---
-## MORTGAGE PROTECTION INSURANCE
+### **MORTGAGE PROTECTION INSURANCE**
 
 Our agents benefit by using the Exclusive Warm Lead Program That Places Agents In Front of Buyers: Our clients have requested our services after retaining a new mortgage. We only see the people that want our services!
 
@@ -41,14 +41,6 @@ Mortgage Protection Insurance is more than a piece of paper. It's an investment 
 5\. Death benefit protection with a Return of Premium Option.
 
 6\. A life insurance policy that offers additional coverage options such as critical illness and disability insurance.
-
-WE HAVE MORE CLIENTS THAN OUR TEAM OF AGENTS CAN SERVICE
-
-TRAINING PROVIDED AT HOME, AND IN THE FIELD
-
-FLEXIBLE SCHEDULE ALLOWS TO SET YOUR OWN HOURS
-
-PREVIOUS INDUSTRY EXPERIENCE NOT REQUIRED
 
 Work Right Out of Your Home! We focus on earning both TIME AND MONEY, the definition of true wealth. Our agents spend 2-3 days a week meeting with clients. The rest of the work is done from the comfort of your own home.
 
