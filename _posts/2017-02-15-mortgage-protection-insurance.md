@@ -4,15 +4,15 @@ description: >-
   Our agents benefit by using the Exclusive Warm Lead Program That Places Agents
   In Front of Buyers: Our clients have requested our services after retaining a
   new mortgage. We only see the people that want our services!
-dateModified: '2017-02-15T23:11:37.971Z'
-datePublished: '2017-02-15T23:11:38.513Z'
+dateModified: '2017-02-15T23:12:02.002Z'
+datePublished: '2017-02-15T23:12:02.550Z'
 title: MORTGAGE PROTECTION INSURANCE
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-02-15-mortgage-protection-insurance.md
 starred: false
 datePublishedOriginal: '2017-02-15T23:11:38.513Z'
-sourcePath: _posts/2017-02-15-mortgage-protection-insurance.md
 _type: Blurb
 
 ---
