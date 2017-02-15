@@ -4,8 +4,8 @@ description: >-
   Our agents benefit by using the Exclusive Warm Lead Program That Places Agents
   In Front of Buyers: Our clients have requested our services after retaining a
   new mortgage. We only see the people that want our services!
-dateModified: '2017-02-15T23:12:02.002Z'
-datePublished: '2017-02-15T23:12:02.550Z'
+dateModified: '2017-02-15T23:15:05.924Z'
+datePublished: '2017-02-15T23:15:06.497Z'
 title: MORTGAGE PROTECTION INSURANCE
 author: []
 publisher: {}
@@ -16,19 +16,19 @@ datePublishedOriginal: '2017-02-15T23:11:38.513Z'
 _type: Blurb
 
 ---
-Our agents benefit by using the Exclusive Warm Lead Program That Places Agents In Front of Buyers: Our clients have requested our services after retaining a new mortgage. We only see the people that want our services!
+## MORTGAGE PROTECTION INSURANCE
 
-# MORTGAGE PROTECTION INSURANCE
+Our agents benefit by using the Exclusive Warm Lead Program That Places Agents In Front of Buyers: Our clients have requested our services after retaining a new mortgage. We only see the people that want our services!
 
 Most mortgage protection insurance plans are offered with simplified underwriting, meaning that there are no physical exams required to qualify. Many mortgage protection insurance plans have additional coverage options that can be added on. These would include disability protection, critical illness protection, and even a unique return of premium feature that offers a refund of all eligible premiums at the end of your term. That's right: life insurance if you need it or a refund if you don't
 
 Mortgage protection insurance is a life insurance product that is designed to pay off your mortgage in the event of your death.
 
-The mortgage is normally any American family's biggest investment as well as their largest monthly expense. Many American families rely on two incomes to ensure that all household expenses can be covered, and without the proper amount of insurance most families would be facing a significant risk of foreclosure. 
+The mortgage is normally any American family's biggest investment as well as their largest monthly expense. Many American families rely on two incomes to ensure that all household expenses can be covered, and without the proper amount of insurance most families would be facing a significant risk of foreclosure.
 
 Mortgage Protection Insurance is more than a piece of paper. It's an investment into your family's future. With the proper mortgage insurance coverage you can rest easy knowing your family will never lose their home, even if an unthinkable tragedy should ever occur.
 
-### Mortgage Protection Protects The Family
+**Mortgage Protection Protects The Family**
 
 1\. To ensure that their family is protected against losing their home in the event of a death, disability, or illness.
 
