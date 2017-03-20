@@ -84,7 +84,7 @@ purpose:
   - type: external
     url: 'https://calendly.com/surewaytolive/15min/01-21-2017?back=1'
     label: Schedule A Call
-  - type: external
-    url: 'http://surewayfinancial.com'
-    label: View Corporate Video
+  - type: internal
+    label: View Company Video
+    item: 0b8c4312-22db-4f89-8212-3b527d491337
 url: 'http://INTERNETBUILDSINCOME.COM'
