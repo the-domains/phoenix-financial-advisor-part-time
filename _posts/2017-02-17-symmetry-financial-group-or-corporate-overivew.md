@@ -62,15 +62,16 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://youtu.be/ukaehQ9eBAE'
 title: MORTGAGE PROTECTION INSURANCE
-datePublished: '2017-02-17T01:57:25.396Z'
-dateModified: '2017-02-17T01:57:24.420Z'
+datePublished: '2017-03-20T23:01:23.883Z'
+dateModified: '2017-03-20T23:01:22.661Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-02-17-symmetry-financial-group-or-corporate-overivew.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-02-17T01:54:26.552Z'
+url: mortgage-protection-insurance/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
