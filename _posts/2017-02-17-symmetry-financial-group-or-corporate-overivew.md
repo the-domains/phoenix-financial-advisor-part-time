@@ -13,9 +13,7 @@ keywords:
   - wilson
   - sfg
   - mfg
-description: >-
-  Symmetry Financial Group is hiring in your area! Go to
-  http://SymmetryPreview.com to learn more and apply online.
+description: ''
 inLanguage: en
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=ukaehQ9eBAE&feature=applinks'
@@ -55,8 +53,8 @@ app_links:
     namespace: google
     type: ios
 title: MORTGAGE PROTECTION INSURANCE
-datePublished: '2017-03-20T23:06:29.634Z'
-dateModified: '2017-03-20T23:06:29.059Z'
+datePublished: '2017-03-20T23:20:43.419Z'
+dateModified: '2017-03-20T23:20:42.902Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-02-17-symmetry-financial-group-or-corporate-overivew.md
